@@ -1,6 +1,7 @@
 import java.util.Hashtable;
 class Solution {
-    public int majorityElement(int[] nums) {
+    public int majorityElement(int[] nums) 
+    {
         Hashtable<Integer,Integer> checkele = new Hashtable<>();
         for(int ch : nums)
         {
