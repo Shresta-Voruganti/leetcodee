@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -44,6 +45,7 @@
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 ## Database
 |  |
@@ -62,6 +64,7 @@
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -73,10 +76,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,4 +102,16 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
