@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 ## Database
 |  |
@@ -44,4 +46,8 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1908-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
