@@ -33,4 +33,8 @@
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
