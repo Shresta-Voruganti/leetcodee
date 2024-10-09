@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Matrix
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 ## Database
 |  |
@@ -50,4 +52,5 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
