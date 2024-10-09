@@ -43,6 +43,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
