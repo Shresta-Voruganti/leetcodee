@@ -1,21 +1,23 @@
-import java.util.Hashtable;
 class Solution {
-    public int majorityElement(int[] nums) 
-    {
-        Hashtable<Integer,Integer> checkele = new Hashtable<>();
-        for(int ch : nums)
+    public int majorityElement(int[] nums) {
+      int candidate = nums[0];
+        int count = 1;
+        for (int i = 1; i < nums.length; i++)
         {
-            checkele.put(ch, checkele.getOrDefault(ch, 0)+1);
-        }
-        int n = nums.length;
-        int res = 0;
-        for(Map.Entry<Integer,Integer> e : checkele.entrySet())
-        {
-            if(e.getValue() > (int)n/2 )
+            if (nums[i] == candidate) 
             {
-                res = e.getKey();
+                count++;
+            } 
+            else 
+            {
+                count--;
+                if (count == 0) 
+                {
+                    candidate = nums[i];
+                    count = 1;
+                }
             }
         }
-        return res;
+        return candidate;   
     }
 }
