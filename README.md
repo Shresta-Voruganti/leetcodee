@@ -31,6 +31,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
