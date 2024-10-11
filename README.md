@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
