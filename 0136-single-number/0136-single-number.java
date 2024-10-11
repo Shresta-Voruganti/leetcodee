@@ -1,19 +1,10 @@
-import java.util.Hashtable;
 class Solution {
     public int singleNumber(int[] nums) {
-        Hashtable<Integer, Integer> ht = new Hashtable<>();
-        for(int ch : nums)
+        int r = 0;
+        for(int num : nums)
         {
-            ht.put(ch, ht.getOrDefault(ch, 0)+1);
+            r = r^num;
         }
-
-        for(int ch : ht.keySet())
-        {
-            if(ht.get(ch) == 1)
-            {
-                return ch;
-            }
-        }
-        return 0;
+        return r;
     }
 }
