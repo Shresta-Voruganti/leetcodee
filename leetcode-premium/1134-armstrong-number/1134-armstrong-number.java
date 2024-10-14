@@ -8,7 +8,7 @@ class Solution {
             sum+= Math.pow(n%10,l);
             n = n/10;
         }
-        if(sum==t)
+        if(sum == t)
         {
             return true;
         }
