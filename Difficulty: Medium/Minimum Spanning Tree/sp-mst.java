@@ -1,3 +1,5 @@
+//minimum spanning tree - using prim's algorithm with min heap
+
 import java.util.*;
 
 class Triplet {
