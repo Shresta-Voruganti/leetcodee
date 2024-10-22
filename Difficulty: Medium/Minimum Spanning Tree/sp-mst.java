@@ -1,4 +1,4 @@
-//minimum spanning tree - using prim's algorithm with min heap
+//minimum spanning tree - using prim's algorithm with min heap (priority queue)
 
 import java.util.*;
 
