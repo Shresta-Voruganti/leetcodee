@@ -41,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
