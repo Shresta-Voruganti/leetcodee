@@ -50,6 +50,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2580-circular-sentence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2580-circular-sentence) |
 ## Matrix
 |  |
 | ------- |
