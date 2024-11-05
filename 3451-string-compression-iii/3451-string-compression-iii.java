@@ -7,8 +7,8 @@ class Solution {
                 count++;
                 i++;
             }
-            comp.append(String.valueOf(count));
-            comp.append(word.charAt(i));
+            comp.append(String.valueOf(count)).append(word.charAt(i));
+            // comp.append(word.charAt(i));
             count = 1;
         }
         return comp.toString();
