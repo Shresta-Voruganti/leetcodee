@@ -53,6 +53,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2580-circular-sentence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -119,6 +120,7 @@
 | [0344-reverse-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -165,6 +168,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
 | ------- |
