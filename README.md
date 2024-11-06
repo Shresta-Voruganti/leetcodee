@@ -17,6 +17,7 @@
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
@@ -68,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 ## Database
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
