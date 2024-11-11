@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
@@ -56,6 +57,7 @@
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -81,6 +83,7 @@
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
