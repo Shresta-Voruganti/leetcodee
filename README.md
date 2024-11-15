@@ -209,6 +209,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -243,4 +244,16 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0374-guess-number-higher-or-lower) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
