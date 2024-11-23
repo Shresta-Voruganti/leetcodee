@@ -16,23 +16,26 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
-        levelord(root, 0, result);
-        return result;
-    }
-
-    private void levelord(TreeNode node, int level, List<List<Integer>> result) {
-        if (node == null) return;
-
-        // If we are entering a new level for the first time
-        if (result.size() == level) {
-            result.add(new ArrayList<>());
+        if(root==null) {
+            return result;
         }
-
-        // Add the current node's value to the appropriate level
-        result.get(level).add(node.val);
-
-        // Recur for left and right children
-        levelord(node.left, level + 1, result);
-        levelord(node.right, level + 1, result);
+        Queue<TreeNode> q = new LinkedList<TreeNode>();
+        q.offer(root);
+        while(!q.isEmpty()) {
+            int levelSize = q.size();
+            List<Integer> currentLevel = new ArrayList<>();
+            for(int i=0; i<levelSize; i++) {
+                TreeNode currentNode = q.poll();
+                currentLevel.add(currentNode.val);
+                if(currentNode.left!=null) {
+                    q.offer(currentNode.left);
+                }
+                if(currentNode.right!=null) {
+                    q.offer(currentNode.right);
+                }
+            }
+            result.add(currentLevel);
+        }
+        return result;
     }
 }
