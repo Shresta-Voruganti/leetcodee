@@ -11,17 +11,18 @@ public class Solution extends GuessGame {
     public int guessNumber(int n) {
         int low = 1;
         int high = n;
+
         while(low<=high) {
             int mid = low + (high-low)/2;
             int hint = guess(mid);
-            if(hint==0) {
+            if(hint==0) { //num==pick, i.e., guess(mid) = n
                 return mid;
             }
-            else if(hint==-1) {
-                high = mid - 1;
+            else if(hint==1) { //num < pick, i.e., guess(mid) < n
+                low = mid+1;
             }
-            else {
-                low = mid + 1;
+            else { //nums > pick, i.e., guess(mid) > n
+                high = mid-1;
             }
         }
         return -1;
