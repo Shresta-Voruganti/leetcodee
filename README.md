@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0374-guess-number-higher-or-lower) |
