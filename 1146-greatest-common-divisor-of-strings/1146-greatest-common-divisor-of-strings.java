@@ -7,10 +7,18 @@ class Solution {
         return str1.substring(0,gcdlength);
     }
 
+    // private int gcd(int a, int b) {
+    //     if(b==0) {
+    //         return a;
+    //     }
+    //     return gcd(b, a%b);
+    // }
     private int gcd(int a, int b) {
-        if(b==0) {
-            return a;
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        return gcd(b, a%b);
+        return a;
     }
 }
