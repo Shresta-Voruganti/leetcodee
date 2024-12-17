@@ -17,6 +17,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0503-next-greater-element-ii) |
@@ -43,6 +44,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0374-guess-number-higher-or-lower) |
+| [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0907-koko-eating-bananas) |
@@ -161,6 +163,7 @@
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
