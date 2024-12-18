@@ -1,4 +1,4 @@
-## LeetCode Badges
+<!-- ## LeetCode Badges -->
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
 
 <!---LeetCode Topics Start-->
