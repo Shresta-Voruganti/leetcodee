@@ -44,6 +44,7 @@
 | [0035-search-insert-position](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -280,6 +281,7 @@
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0374-guess-number-higher-or-lower) |
 ## Tree
 |  |
