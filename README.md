@@ -35,6 +35,7 @@
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
