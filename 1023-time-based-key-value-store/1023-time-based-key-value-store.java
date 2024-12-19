@@ -40,7 +40,7 @@ class TimeMap {
                 result = node.value;
                 left = mid + 1;
             }
-            else {
+            else { //node.timestamp > timestamp
                 right = mid - 1;
             }
         }
