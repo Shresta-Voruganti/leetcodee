@@ -10,6 +10,7 @@ class Solution {
                     if(n==0) {
                         return true;
                     }
+                    i++;
                 }
             }
         }
