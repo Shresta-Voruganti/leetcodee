@@ -54,6 +54,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -84,6 +85,7 @@
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
@@ -115,6 +117,7 @@
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
+| [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
@@ -333,4 +336,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
