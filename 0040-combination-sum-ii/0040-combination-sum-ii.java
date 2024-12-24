@@ -8,11 +8,15 @@ class Solution {
 
     private void backtrack(int[] candidates, int i, int target, List<List<Integer>> res, List<Integer> tempList) {
         if(target == 0) {
-            if(!res.contains(tempList)) {
-                res.add(new ArrayList<>(tempList));
-            }
+            res.add(new ArrayList<>(tempList));
             return;
         }
+        // if(target == 0) {
+        //     if(!res.contains(tempList)) {
+        //         res.add(new ArrayList<>(tempList));
+        //     }
+        //     return;
+        // }
         // if(target < 0) {
         //     return;
         // }
