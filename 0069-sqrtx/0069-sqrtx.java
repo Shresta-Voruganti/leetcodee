@@ -1,23 +1,23 @@
 class Solution {
     public int mySqrt(int x) {
-        if (x == 0 || x == 1) {
+        if(x < 2) {
             return x;
         }
-        
-        int left = 1, right = x, result = 0;
-        
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            
-            // Avoid overflow by dividing first
-            if (mid <= x / mid) {
-                result = mid;
+        long left = 1;
+        long right = x/2;
+        while(left <= right) {
+            long mid = left + (right - left)/2;
+            long square = mid * mid;
+            if(x == square) {
+                return (int) mid;
+            }
+            else if(x > square) { // target > arr[i] types
                 left = mid + 1;
-            } else {
+            }
+            else { // x < square // target < arr[i] types
                 right = mid - 1;
             }
         }
-        
-        return result;
+        return (int) right;
     }
 }
