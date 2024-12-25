@@ -13,14 +13,14 @@ class Solution {
             right--;
         }
 
-        StringBuilder result = new StringBuilder();
-        for(int i=0; i<words.length; i++){
-            result.append(words[i]);
-            if(i < words.length-1) {
-                result.append(" ");
-            }
-        }
-        return result.toString();
-        // return String.join(" ", words);
+        // StringBuilder result = new StringBuilder();
+        // for(int i=0; i<words.length; i++){
+        //     result.append(words[i]);
+        //     if(i < words.length-1) {
+        //         result.append(" ");
+        //     }
+        // }
+        // return result.toString();
+        return String.join(" ", words);
     }
 }
