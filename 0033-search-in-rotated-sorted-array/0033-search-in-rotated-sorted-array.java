@@ -8,15 +8,19 @@ class Solution {
             if(target == nums[mid]) {
                 return mid;
             }
+            // left half sorted
             if(nums[left] <= nums[mid]) {
-                if(nums[left] <= target && target < nums[mid]) {
+                // nums][left] <= target < nums[mid]
+                if(nums[left] <= target && target < nums[mid]) { 
                     right = mid-1;
                 }
                 else {
                     left = mid+1;
                 }
             }
+            // right half sorted
             else {
+                // nums[mid] < target <= nums[right]
                 if(nums[right] >= target && target > nums[mid]) {
                     left = mid+1;
                 }
