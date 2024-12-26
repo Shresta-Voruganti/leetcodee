@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -351,6 +352,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0089-gray-code) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
