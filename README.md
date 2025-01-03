@@ -47,6 +47,7 @@
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2580-circular-sentence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3451-string-compression-iii) |
