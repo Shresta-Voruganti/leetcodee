@@ -56,6 +56,7 @@
 | [2465-shifting-letters-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2465-shifting-letters-ii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
@@ -340,12 +342,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -431,4 +435,12 @@
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
