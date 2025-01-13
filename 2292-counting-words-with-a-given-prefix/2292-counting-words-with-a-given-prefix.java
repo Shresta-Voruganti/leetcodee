@@ -2,6 +2,7 @@ class Solution {
     public int prefixCount(String[] words, String pref) {
         int ans = 0;
         int n = pref.length();
+
         for(String word : words) {
             if(word.length() >= n) {
                 boolean isPrefix = true;
@@ -12,10 +13,9 @@ class Solution {
                     }
                 }
                 if(isPrefix) {
-                    ans ++;
+                    ans++;
                 }
             }
-
         }
         return ans;
     }
