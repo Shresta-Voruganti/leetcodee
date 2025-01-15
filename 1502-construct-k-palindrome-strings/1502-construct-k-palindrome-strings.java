@@ -1,5 +1,6 @@
 class Solution {
     public boolean canConstruct(String s, int k) {
+        // If the s.length < k we cannot construct k strings from s and answer is false.
         if(s.length() < k) {
             return false;
         }
@@ -13,9 +14,11 @@ class Solution {
                 counts++;
             }
         }
+        // If the number of characters that have odd counts is > k then the minimum number of palindrome strings we can construct is > k and answer is false.
         if(counts > k) {
             return false;
         }
+        // Otherwise you can construct exactly k palindrome strings and answer is true.
         else {
             return true;
         }
