@@ -1,35 +1,33 @@
 class Solution {
     public List<String> stringMatching(String[] words) {
-        List<String> result = new ArrayList<>();
-
-        for(int i=0; i<words.length; i++) {
-            for(int j=0; j<words.length; j++) {
-                if(i == j) {
-                    continue;
-                }
-                if(isSubstringOf(words[i], words[j])) {
-                    result.add(words[i]);
-                    break;
+      List<String> res = new ArrayList<>();
+      for(int i = 0; i < words.length; i++) {
+        for(int j = 0; j < words.length; j++) {
+            if(i == j) {
+                continue;
+            }
+            else {
+                if(isSubString(words[i], words[j])) {
+                    if(!res.contains(words[i])) {
+                        res.add(words[i]);
+                    }
                 }
             }
         }
-        return result;
+      }
+      return res;
     }
 
-    private boolean isSubstringOf(String sub, String mainn) {
-        for(int i=0; i<mainn.length(); i++) {
-            boolean subFits = true;
-            for(int j=0; j<sub.length(); j++) {
-                if(i+j >= mainn.length() || mainn.charAt(i+j) != sub.charAt(j)) {
-                    subFits = false;
-                    break;
-                }
-            }
-
-            if(subFits) {
-                return true;
-            }
+    private boolean isSubString(String word1, String word2) {
+        if(word1.length() > word2.length()) {
+            return false;
         }
-        return false;
+
+        if(word2.contains(word1)) {
+            return true;
+        }
+        else {
+            return false;
+        }
     }
 }
