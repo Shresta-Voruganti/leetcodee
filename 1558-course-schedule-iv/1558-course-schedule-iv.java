@@ -20,8 +20,8 @@ class Solution {
         }
 
         List<Boolean> res = new ArrayList<>();
-        for(int[] query : queries) {
-            res.add(isReachable[query[0]][query[1]]);
+        for(int[] qq : queries) {
+            res.add(isReachable[qq[0]][qq[1]]);
         }
         return res;
     }
