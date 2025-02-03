@@ -1,8 +1,8 @@
 <!-- ## LeetCode Badges -->
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
 
-![Top SQL 50 Badge](https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif)
-![Jan LeetCoding Challenge](https://assets.leetcode.com/static_assets/images/dcc-2025-1.gif)
+<img src="https://assets.leetcode.com/static_assets/images/dcc-2025-1.gif" alt="Jan LeetCoding Challenge" width="100"/>
+
 
 
 <!---LeetCode Topics Start-->
