@@ -1,9 +1,10 @@
 <!-- ## LeetCode Badges -->
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <img src="https://assets.leetcode.com/static/assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100"/>
-  <img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" alt="Jan LeetCoding Challenge" width="100"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://assets.leetcode.com/static/assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100" style="margin-right: 20px;"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" alt="Jan LeetCoding Challenge" width="100" style="margin-right: 20px;"/>
 </div>
+
 
 
 
