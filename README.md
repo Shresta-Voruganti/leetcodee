@@ -6,7 +6,7 @@
 </div>
 
 <p style="overflow: hidden;">
-  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.png" alt="Top SQL 50 Badge" width="100" style="float:left; margin-right:20px;"/>
   <img src="https://leetcode.com/static/images/badges/dcc-2025-1.png" alt="Jan LeetCoding Challenge" width="100"/>
 </p>
 
