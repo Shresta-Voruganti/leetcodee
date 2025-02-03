@@ -1,7 +1,10 @@
+<!--
 ## LeetCode Badges
 <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
 <br>
 <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="Jan LeetCoding Challenge" width="100"/>
+
+-->
 
 <!--
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
