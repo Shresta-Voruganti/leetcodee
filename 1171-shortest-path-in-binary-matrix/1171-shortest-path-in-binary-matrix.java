@@ -11,7 +11,7 @@ class Solution {
        // (0,0) is the position and 1 is the distance, initially we make that distance 1 at (0,0) itself
 
         grid[0][0] = 1;
-        // and then as we say it is visited, we mark it as visited denoting the value with '1'
+        // and then as we say it is visited, we mark it(starting cell) as visited denoting the value with '1'
 
         while(!q.isEmpty()) {
             int[] current = q.poll();
