@@ -61,6 +61,7 @@
 | [0907-koko-eating-bananas](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [1002-maximum-width-ramp](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
@@ -174,6 +175,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
@@ -466,6 +468,7 @@
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
