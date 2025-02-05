@@ -15,8 +15,7 @@ class Solution {
 
         for(int i = 0; i < arr.length; i++) {
             int[] curr = pos.get(arr[i]);
-            int row = curr[0];
-            int col = curr[1];
+            int row = curr[0], col = curr[1];
 
             rowCount[row]++;
             colCount[col]++;
