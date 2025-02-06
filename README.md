@@ -65,6 +65,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
+| [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -204,6 +205,7 @@
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
+| [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
@@ -301,6 +303,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
