@@ -39,6 +39,7 @@
 | [0046-permutations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -291,6 +292,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
@@ -334,6 +336,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0167-two-sum-ii-input-array-is-sorted) |
