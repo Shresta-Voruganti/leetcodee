@@ -6,7 +6,7 @@
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=github-dark" alt="LeetCode Badges" />
 -->
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=light" alt="LeetCode Badges" />
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=light" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
 <!--
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="Top SQL 50 Badge" width="100"/>
