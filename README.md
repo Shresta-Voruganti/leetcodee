@@ -434,6 +434,7 @@
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
+| [0899-binary-gap](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0899-binary-gap) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
