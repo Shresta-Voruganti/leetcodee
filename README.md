@@ -5,8 +5,10 @@
 <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" alt="Jan LeetCoding Challenge" width="100"/>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=github-dark" alt="LeetCode Badges" />
 -->
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&theme=light&border=no-border&animated=false)
 <!-- 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti" alt="LeetCode Badges" />
+
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Shresta-Voruganti&animated=true" alt="LeetCode Badges" />
 -->
 <!--
