@@ -89,6 +89,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
+| [1755-defuse-the-bomb](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1755-defuse-the-bomb) |
 | [1876-map-of-highest-peak](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -579,6 +580,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
+| [1755-defuse-the-bomb](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
