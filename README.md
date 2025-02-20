@@ -43,6 +43,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -154,6 +155,7 @@
 | [0014-longest-common-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0205-isomorphic-strings) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
@@ -467,6 +470,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0110-balanced-binary-tree) |
@@ -501,6 +505,7 @@
 | [0046-permutations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
