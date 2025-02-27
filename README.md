@@ -110,6 +110,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3429-special-array-i) |
 ## Binary Search
@@ -147,6 +148,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
@@ -419,6 +421,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
