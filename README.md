@@ -81,6 +81,7 @@
 | [1002-maximum-width-ramp](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
+| [1138-grumpy-bookstore-owner](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1138-grumpy-bookstore-owner) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
@@ -609,6 +610,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
+| [1138-grumpy-bookstore-owner](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1138-grumpy-bookstore-owner) |
 | [1755-defuse-the-bomb](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2134-maximize-the-confusion-of-an-exam) |
