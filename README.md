@@ -39,6 +39,7 @@
 | [0035-search-insert-position](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0053-maximum-subarray) |
@@ -332,6 +333,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -367,6 +369,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0016-3sum-closest) |
+| [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0151-reverse-words-in-a-string) |
@@ -434,6 +437,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
@@ -484,6 +488,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1002-maximum-width-ramp) |
