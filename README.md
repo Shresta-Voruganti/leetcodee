@@ -105,6 +105,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2685-first-completely-painted-row-or-column) |
@@ -149,6 +150,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2551-apply-operations-to-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3447-clear-digits) |
@@ -387,6 +389,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2551-apply-operations-to-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
