@@ -351,6 +351,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1236-n-th-tribonacci-number) |
@@ -429,6 +430,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1236-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
@@ -472,6 +474,7 @@
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
@@ -482,6 +485,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0605-can-place-flowers) |
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
