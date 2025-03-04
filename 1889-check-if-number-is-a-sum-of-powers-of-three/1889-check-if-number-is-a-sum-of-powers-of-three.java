@@ -1,24 +1,23 @@
 class Solution {
     public boolean checkPowersOfThree(int n) {
-        return helper(0, n);
-    }
+        int power = 0;
 
-    private boolean helper(int power, int n) {
-        if(n == 0) {
-            return true;
+        while(Math.pow(3, power) <= n) {
+            power++;
         }
 
-        if(Math.pow(3, power) > n) {
-            return false;
+        while(n > 0) {
+            if(n >= Math.pow(3, power)) {
+                n -= (int) Math.pow(3, power);
+            }
+
+            if(n >= Math.pow(3, power)) {
+                return false;
+            }
+
+            power--;
         }
 
-        boolean addPower = helper(
-            power + 1, 
-            (n - (int) Math.pow(3, power))
-            );
-
-        boolean skipPower = helper(power + 1, n);
-
-        return addPower || skipPower;
+        return true;
     }
 }
