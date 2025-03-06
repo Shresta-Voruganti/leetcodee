@@ -200,6 +200,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -470,6 +471,7 @@
 | [0739-daily-temperatures](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1002-maximum-width-ramp) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -499,6 +501,7 @@
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Trie
 |  |
