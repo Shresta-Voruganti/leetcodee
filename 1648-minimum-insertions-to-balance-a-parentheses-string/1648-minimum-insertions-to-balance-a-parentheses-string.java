@@ -9,7 +9,6 @@ class Solution {
             }
             else {
                 if(i < s.length() - 1 && s.charAt(i + 1) == ')') {
-                    // i+=2;
                     i++;
                 }
                 else {
