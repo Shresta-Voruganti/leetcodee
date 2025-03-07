@@ -7,7 +7,10 @@ class Solution {
 
         int power = 1;
         while(s1.contains(power)) {
-            power *= 2;
+            // power = power * 2;
+            // power *= 2;
+            // power <<= 1;
+            power = power << 1;
         }
 
         return power;
