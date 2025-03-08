@@ -101,6 +101,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -210,6 +211,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -268,6 +270,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -589,6 +592,7 @@
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
+| [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
