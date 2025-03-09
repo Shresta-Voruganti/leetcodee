@@ -125,6 +125,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3463-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -664,6 +665,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3463-alternating-groups-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3463-alternating-groups-i) |
 ## Linked List
 |  |
 | ------- |
