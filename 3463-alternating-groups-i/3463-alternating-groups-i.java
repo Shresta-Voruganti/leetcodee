@@ -1,7 +1,6 @@
 class Solution {
     public int numberOfAlternatingGroups(int[] colors) {
         int[] res = new int[3];
-        // int index = 1;
         int n = colors.length;
         int count = 0;
 
