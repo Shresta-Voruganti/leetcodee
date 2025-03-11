@@ -11,7 +11,7 @@ class Solution {
             }
 
             hmap.put(nums[i], i);
-        }   
+        }
 
         return new int[]{-1, -1};
     }
