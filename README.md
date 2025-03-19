@@ -127,6 +127,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -509,6 +511,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
 | [2705-minimum-impossible-or](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2705-minimum-impossible-or) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Greedy
 |  |
 | ------- |
@@ -670,6 +673,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3463-alternating-groups-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
 | ------- |
@@ -683,4 +687,8 @@
 |  |
 | ------- |
 | [2705-minimum-impossible-or](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2705-minimum-impossible-or) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
