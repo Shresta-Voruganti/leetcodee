@@ -206,6 +206,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -273,6 +274,7 @@
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
@@ -668,6 +670,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
 | [1138-grumpy-bookstore-owner](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1138-grumpy-bookstore-owner) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2134-maximize-the-confusion-of-an-exam) |
