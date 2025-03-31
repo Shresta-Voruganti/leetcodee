@@ -5,22 +5,16 @@ class Solution {
         int[] freq = new int[2];
 
         for(int right = 0; right < s.length(); right++) {
-            if(s.charAt(right) == '0') {
-                freq[0]++;
-            }
-            else {
-                freq[1]++;
-            }
+            freq[s.charAt(right) - '0']++;
 
-            while(freq[0] > k && freq[1] > k) {
-                if(s.charAt(left) == '0') {
-                    freq[0]--;
+            while(true) {
+                if(freq[0] <= k || freq[1] <= k) {
+                    break;
                 }
-                else {
-                    freq[1]--;
-                }
+                freq[s.charAt(left) - '0']--;
                 left++;
             }
+
             subcount += (right - left + 1);
         }
 
