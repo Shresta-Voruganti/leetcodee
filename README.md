@@ -231,6 +231,7 @@
 | [3447-clear-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Matrix
 |  |
 | ------- |
@@ -674,6 +675,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3463-alternating-groups-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Linked List
 |  |
 | ------- |
