@@ -567,6 +567,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
@@ -581,6 +582,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
@@ -599,6 +601,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
@@ -714,5 +717,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
