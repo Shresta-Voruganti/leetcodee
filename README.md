@@ -568,6 +568,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -583,6 +584,7 @@
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1558-course-schedule-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -598,6 +600,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -708,4 +711,8 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
