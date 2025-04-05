@@ -204,6 +204,7 @@
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
@@ -381,6 +382,7 @@
 | [0152-maximum-product-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
@@ -425,6 +427,7 @@
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
