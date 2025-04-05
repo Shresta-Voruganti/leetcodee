@@ -107,6 +107,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -456,6 +457,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2649-count-total-number-of-colored-cells) |
@@ -522,6 +524,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0899-binary-gap](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0899-binary-gap) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
 | [2705-minimum-impossible-or](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2705-minimum-impossible-or) |
@@ -629,6 +632,7 @@
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
@@ -738,4 +742,9 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
