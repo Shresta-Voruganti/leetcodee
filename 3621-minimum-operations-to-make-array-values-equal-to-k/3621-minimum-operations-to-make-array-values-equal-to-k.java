@@ -5,12 +5,21 @@ class Solution {
         for(int num : nums) {
             hmap.put(num, hmap.getOrDefault(num, 0) + 1);
         } 
-        for(Map.Entry<Integer, Integer> e : hmap.entrySet()) {
-            if(e.getKey() < k) {
+        // for(Map.Entry<Integer, Integer> e : hmap.entrySet()) {
+        //     if(e.getKey() < k) {
+        //         op = -1;
+        //         return op;
+        //     }
+        //     else if(e.getKey() > k) {
+        //         op++;
+        //     }
+        // }
+        for(Integer key : hmap.keySet()) {
+            if(key < k) {
                 op = -1;
                 return op;
             }
-            else if(e.getKey() > k) {
+            else if(key > k) {
                 op++;
             }
         }
