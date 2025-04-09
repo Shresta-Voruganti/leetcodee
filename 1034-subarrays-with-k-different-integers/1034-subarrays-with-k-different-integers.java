@@ -2,7 +2,7 @@ class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
         return countAtmostKDistinct(nums, k) - countAtmostKDistinct(nums, k - 1);
     }
-    
+
     private int countAtmostKDistinct(int[] nums, int k) {
         int left = 0;
         int result = 0;
@@ -12,7 +12,6 @@ class Solution {
             if(hmap.getOrDefault(nums[right], 0) == 0) {
                 k--;
             }
-
             hmap.put(nums[right], hmap.getOrDefault(nums[right], 0) + 1);
 
             while(k < 0) {
@@ -22,7 +21,6 @@ class Solution {
                 }
                 left++;
             }
-
             result += right - left + 1;
         }
 
