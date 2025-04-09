@@ -11,7 +11,6 @@ class Solution {
             if(!hasele[i]) {
                 continue;
             }
-
             if(hasele[i] && i < k) {
                 op = -1;
                 return op;
