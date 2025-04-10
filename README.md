@@ -221,6 +221,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1524-string-matching-in-an-array) |
@@ -467,6 +468,7 @@
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1236-n-th-tribonacci-number) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -714,6 +716,7 @@
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
 | [1138-grumpy-bookstore-owner](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1138-grumpy-bookstore-owner) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
