@@ -139,6 +139,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3447-clear-digits) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
 | ------- |
@@ -503,6 +506,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -736,6 +740,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0908-middle-of-the-linked-list) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -777,4 +782,12 @@
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
