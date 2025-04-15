@@ -105,6 +105,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1755-defuse-the-bomb](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1755-defuse-the-bomb) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1876-map-of-highest-peak](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -299,6 +300,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -383,6 +385,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
@@ -450,6 +453,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1659-get-the-maximum-score](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1659-get-the-maximum-score) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
