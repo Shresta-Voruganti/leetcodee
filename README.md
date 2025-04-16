@@ -126,6 +126,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2705-minimum-impossible-or](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2705-minimum-impossible-or) |
@@ -314,6 +315,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -743,6 +745,7 @@
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3463-alternating-groups-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
