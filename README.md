@@ -138,6 +138,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -766,6 +767,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3463-alternating-groups-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
