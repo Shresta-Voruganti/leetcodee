@@ -1,41 +1,65 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        if(strs==null || strs.length==0)
-        {
-            return "";
+        Trie tr = new Trie();
+        for(String word : strs) {
+            tr.insert(word);
         }
-        int minLen = Integer.MAX_VALUE;
-        for(String str : strs)
-        {
-            minLen = Math.min(str.length(),minLen);
+        return tr.longestcommonprefix();
+    }
+}
+
+class Trie {
+    static final int numchars = 26;
+    static class TrieNode {
+        TrieNode[] children = new TrieNode[numchars];
+        boolean isEndofword;
+        char ch;
+
+        TrieNode() {
+            isEndofword = false;
         }
-        int low = 1;
-        int high = minLen;
-        while(low<=high)
-        {
-            int mid = low + (high-low)/2;
-            if(isCommonPrefix(strs,mid))
-            {
-                low = mid + 1;
+    };
+
+    // static 
+    TrieNode root = new TrieNode();
+
+    public void insert(String key) {
+        TrieNode curr = root;
+        for (int level = 0; level < key.length(); level++) {
+            int index = key.charAt(level) - 'a';
+            if (curr.children[index] == null) {
+                curr.children[index] = new TrieNode();
+                curr.children[index].ch = key.charAt(level);
             }
-            else
-            {
-                high = mid-1;
-            }
+            curr = curr.children[index];
         }
-        return strs[0].substring(0,(low+high)/2);
+        curr.isEndofword = true;
     }
 
-    private boolean isCommonPrefix(String[] strs, int len)
-    {
-        String str1 = strs[0].substring(0,len);
-        for(int i=0; i<strs.length; i++)
-        {
-            if(!strs[i].startsWith(str1))
-            {
-                return false;
+    public String longestcommonprefix() {
+        TrieNode curr = root;
+        StringBuilder prefix = new StringBuilder();
+
+        while (true) {
+            int count = 0;
+            TrieNode next = null;
+
+            for (int i = 0; i < numchars; i++) {
+                if (curr.children[i] != null) {
+                    count++;
+                    next = curr.children[i];
+                }
             }
+
+            // If the current node has more than one child or ends a word, stop.
+            if (count != 1 || curr.isEndofword) {
+                break;
+            }
+
+            prefix.append(next.ch);
+            curr = next;
         }
-        return true;
+
+        return prefix.toString();
     }
 }
