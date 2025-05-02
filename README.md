@@ -61,6 +61,7 @@
 | [0189-rotate-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
@@ -226,6 +227,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0345-reverse-vowels-of-a-string) |
@@ -275,6 +277,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
@@ -616,6 +619,7 @@
 | [0139-word-break](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
+| [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
@@ -702,6 +706,7 @@
 | [0089-gray-code](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
