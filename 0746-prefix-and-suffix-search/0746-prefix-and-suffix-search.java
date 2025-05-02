@@ -1,16 +1,18 @@
-// class WordFilter {
+/*
+class WordFilter {
 
-//     public WordFilter(String[] words) {
+    public WordFilter(String[] words) {
         
-//     }
+    }
     
-//     public int f(String pref, String suff) {
+    public int f(String pref, String suff) {
         
-//     }
-// }
+    }
+}
+*/
 
 class WordFilter {
-    static final int numchars = 27;
+    static final int numchars = 27; // 26 for a-z and 1 for '{'
     static class TrieNode {
         TrieNode[] children = new TrieNode[numchars];
         int weight;
@@ -42,9 +44,10 @@ class WordFilter {
             String word = words[weight];
 
             for(int i = 0; i < word.length(); i++) {
+                // Suffix from i to end + '{' + full word
                 insert(word.substring(i) + '{' + word, weight);
             }
-            insert("{" + word, weight);
+            insert("{" + word, weight); //(edge case: "" suffix): (prefix = "")
         }
     }
 
