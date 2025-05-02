@@ -83,6 +83,7 @@
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -236,6 +237,7 @@
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -311,6 +313,7 @@
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
@@ -621,6 +624,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
+| [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -753,6 +757,7 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
+| [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 ## Rolling Hash
 |  |
