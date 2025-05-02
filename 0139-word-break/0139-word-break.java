@@ -1,75 +1,87 @@
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        Trie t = new Trie();
-        Trie.root = new Trie.trieNode();
+        Trie tr = new Trie();
         for(String word : wordDict) {
-            t.insert(word);
+            tr.insert(word);
         }
 
-        Boolean[] canform = new Boolean[s.length()];
-        return segment(s, 0, canform);
-    }
+        int length = s.length();
+        boolean[] dp = new boolean[length + 1];
+        dp[0] = true;
 
-    private boolean segment(String s, int start, Boolean[] canform) {
-        if(start == s.length()) {
-            return true;
-        }
-        if(canform[start] != null) {
-            return canform[start];
-        }
-
-        Trie.trieNode curr = Trie.root;
-        for(int i = start; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if(curr.children[c - 'a'] == null) {
-                break; // No path in Trie, so stop
-            }
-            curr = curr.children[c - 'a'];
-            if(curr.isEnd) {
-                if(segment(s, i + 1, canform)) {
-                    return canform[start] = true;
+        for(int i = 1; i <= length; i++) {
+            for(int j = 0; j < i; j++) {
+                if(dp[j] && tr.search(s, j, i)) {
+//                if(dp[j] && tr.search(s.substring(j, i))) {
+                    dp[i] = true;
+                    break;
                 }
             }
         }
-
-        return canform[start] = false;
-
+        return dp[length];
     }
 }
 
 class Trie {
-    static final int NUM_CHARS = 26;
+    static final int numchars = 26;
+    static class TrieNode {
+        TrieNode[] children = new TrieNode[numchars];
+        boolean isEndofword;
 
-    static class trieNode {
-        trieNode[] children = new trieNode[NUM_CHARS];
-        boolean isEnd;
-
-        trieNode() {
-            isEnd = false;
-            for(int i = 0; i < NUM_CHARS; i++) {
+        TrieNode() {
+            isEndofword = false;
+            for(int i = 0; i < numchars; i++) {
                 children[i] = null;
             }
         }
     };
 
-    static trieNode root;
+    TrieNode root = new TrieNode();
 
-    static void insert(String key) {
+    public void insert(String key) {
         int level;
         int length = key.length();
         int index;
-        
-        trieNode curr = root;
+
+        TrieNode curr = root;
 
         for(level = 0; level < length; level++) {
             index = key.charAt(level) - 'a';
             if(curr.children[index] == null) {
-                curr.children[index] = new trieNode();
+                curr.children[index] = new TrieNode();
             }
-
             curr = curr.children[index];
         }
+        curr.isEndofword = true;
+    }
 
-        curr.isEnd = true;
-    }    
+//    public boolean search(String key) {
+//        int level;
+//        int length = key.length();
+//        int index;
+//
+//        TrieNode curr = root;
+//
+//        for(level = 0; level < length; level++) {
+//            index = key.charAt(level) - 'a';
+//            if(curr.children[index] == null) {
+//                return false;
+//            }
+//            curr = curr.children[index];
+//        }
+//        return curr.isEndofword;
+//    }
+
+    // Optimized search method: directly uses the start and end indices
+    public boolean search(String s, int start, int end) {
+        TrieNode curr = root;
+        for(int i = start; i < end; i++) {
+            int index = s.charAt(i) - 'a';
+            if(curr.children[index] == null) {
+                return false;
+            }
+            curr = curr.children[index];
+        }
+        return curr.isEndofword;
+    }
 }
