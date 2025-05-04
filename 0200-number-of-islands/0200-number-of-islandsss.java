@@ -64,7 +64,7 @@ class DisjointSet {
         }
         if(sz[px] >= sz[py]) {
             parent[py] = px;
-            sz[px] += py;
+            sz[px] += sz[py];
         }
         else {
             parent[px] = py;
