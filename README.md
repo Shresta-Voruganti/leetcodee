@@ -111,6 +111,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1659-get-the-maximum-score](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1659-get-the-maximum-score) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1694-make-sum-divisible-by-p](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1694-make-sum-divisible-by-p) |
 | [1721-maximum-profit-of-operating-a-centennial-wheel](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1721-maximum-profit-of-operating-a-centennial-wheel) |
 | [1755-defuse-the-bomb](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1755-defuse-the-bomb) |
@@ -290,6 +291,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2685-first-completely-painted-row-or-column) |
@@ -683,6 +685,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -738,6 +741,7 @@
 | [1447-jump-game-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1447-jump-game-iv) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1558-course-schedule-iv) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -749,6 +753,7 @@
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
