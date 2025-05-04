@@ -8,9 +8,10 @@ class Solution {
             int v = edge[1];
             int pu = dsu.findParent(u);
             int pv = dsu.findParent(v);
-            if(dsu.union(pu, pv)) {
+            if(pu == pv) {
                 return new int[]{u, v};
             }
+            dsu.union(u, v);
         }
         return new int[0];
     }
