@@ -678,6 +678,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
@@ -729,6 +730,7 @@
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -743,6 +745,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
@@ -752,6 +755,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1558-course-schedule-iv) |
 ## Design
