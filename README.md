@@ -242,6 +242,7 @@
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -743,6 +744,7 @@
 | [0200-number-of-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
