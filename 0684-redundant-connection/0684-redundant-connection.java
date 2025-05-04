@@ -52,16 +52,14 @@ class DisjointSet {
 
         if(rank[fx] > rank[fy]) {
             parent[fy] = fx;
-            return false;
         }
         else if(rank[fx] < rank[fy]) {
             parent[fx] = fy;
-            return false;
         }
         else {
             parent[fy] = fx;
             rank[fx] = rank[fx] + 1;
-            return false;
         }
+        return false;
     }
 }
