@@ -7,19 +7,19 @@ class Solution {
 
         for(int i = 0; i < row; i++) {
             if(grid[i][0] == 1 && !vis[i][0]) {
-                dfs(grid, i, 0, vis);
+                bfs(grid, i, 0, vis);
             }
             if(grid[i][col - 1] == 1 && !vis[i][col - 1]) {
-                dfs(grid, i, col - 1, vis);
+                bfs(grid, i, col - 1, vis);
             }
         }
 
         for(int j = 0; j < col; j++) {
             if(grid[0][j] == 1 && !vis[0][j]) {
-                dfs(grid, 0, j, vis);
+                bfs(grid, 0, j, vis);
             }
             if(grid[row - 1][j] == 1 && !vis[row - 1][j]) {
-                dfs(grid, row - 1, j, vis);
+                bfs(grid, row - 1, j, vis);
             }
         }
 
@@ -28,23 +28,35 @@ class Solution {
             for(int j = 0; j < col; j++) {
                 if(grid[i][j] == 1 && !vis[i][j]) {
                     count++;
-                    // dfs(grid, i, j, vis);
+                    // bfs(grid, i, j, vis);
                 }
             }
         }
         return count;
     }
 
-    public void dfs(int[][] grid, int x, int y, boolean[][] vis) {
-        vis[x][y] = true;
-    
-        for(int[] dir : dirs) {
-            int newx = x + dir[0];
-            int newy = y + dir[1];
+    public void bfs(int[][] grid, int i, int j, boolean[][] vis) {
+        int row = grid.length;
+        int col = grid[0].length;
+        Queue<int[]> q = new LinkedList<>();
+        q.offer(new int[]{i, j});
+        vis[i][j] = true;
 
-            if(newx >= 0 && newx < grid.length && newy >= 0 && newy < grid[0].length && grid[newx][newy] == 1 && !vis[newx][newy]) {
-                dfs(grid, newx, newy, vis);
+        while(!q.isEmpty()) {
+            int[] curr = q.poll();
+            int x = curr[0];
+            int y = curr[1];
+
+            for(int[] dir : dirs) {
+                int newx = x + dir[0];
+                int newy = y + dir[1];
+
+                if(newx >= 0 && newx < row && newy >= 0 && newy < col && grid[newx][newy] == 1 && !vis[newx][newy]) {
+                    q.offer(new int[]{newx, newy});
+                    vis[newx][newy] = true;
+                }
             }
         }
+        
     }
 }
