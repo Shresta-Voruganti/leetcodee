@@ -124,6 +124,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2048-build-array-from-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -192,6 +193,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
