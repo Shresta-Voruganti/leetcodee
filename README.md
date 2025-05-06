@@ -72,6 +72,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
@@ -316,6 +317,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0560-subarray-sum-equals-k) |
@@ -599,6 +601,7 @@
 | [0136-single-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0461-hamming-distance) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
@@ -630,6 +633,7 @@
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
