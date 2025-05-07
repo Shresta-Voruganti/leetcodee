@@ -63,7 +63,9 @@ class Solution {
         int[] parent = new int[V + 1];
         int maxflow = 0;
 
+        // while(dfs(rgraph, s, t, parent)) 
         while(bfs(rgraph, s, t, parent))
+        // while (bfs1(rgraph, s, t, parent, new boolean[V + 1]))
         // while (dfs1(rgraph, s, t, parent, new boolean[V + 1])) 
         {
             int pathflow = Integer.MAX_VALUE;
@@ -82,6 +84,29 @@ class Solution {
         return maxflow;
     }
     
+    // Iterative DFS
+    public boolean dfs(int[][] rgraph, int s, int t, int[] parent) {
+        boolean[] vis = new boolean[V + 1];
+        Stack<Integer> stk = new Stack<>();
+        stk.push(s);
+        vis[s] = true;
+        parent[s] = -1;
+
+        while(!stk.isEmpty()) {
+            int u = stk.pop();
+            for(int v = 1; v <= V; v++) {
+                if(!vis[v] && rgraph[u][v] > 0) {
+                    parent[v] = u;
+                    vis[v] = true;
+                    if(v == t) {
+                        return true;
+                    }
+                    stk.push(v);
+                }
+            }
+        }
+        return false;
+    }
     
     // Iterative BFS
     public boolean bfs(int[][] rgraph, int s, int t, int[] parent) {
@@ -93,11 +118,13 @@ class Solution {
 
         while (!q.isEmpty()) {
             int u = q.poll();
+            // System.out.println("Visiting node: " + u);
             for (int v = 1; v <= V; v++) {
                 if (!vis[v] && rgraph[u][v] > 0) {  
                     parent[v] = u;
                     vis[v] = true;
                     if (v == t) {
+                        // System.out.println("Path found from " + s + " to " + t);
                         return true;
                     }
                     q.offer(v);
@@ -111,10 +138,12 @@ class Solution {
     public boolean dfs1(int[][] rgraph, int u, int t, int[] parent, boolean[] vis) {
         vis[u] = true;
 
+        // If we've reached the target node
         if (u == t) {
             return true;
         }
 
+        // Explore neighbors recursively
         for (int v = 1; v <= V; v++) {
             if (!vis[v] && rgraph[u][v] > 0) {
                 parent[v] = u;
@@ -124,7 +153,28 @@ class Solution {
             }
         }
 
-        return false;
+        return false;  // No path found
     }
+    
+    // Recursive BFS
+    public boolean bfs1(int[][] rgraph, int u, int t, int[] parent, boolean[] vis) {
+        vis[u] = true;
 
+        // If we've reached the target node
+        if (u == t) {
+            return true;
+        }
+
+        // Explore neighbors recursively
+        for (int v = 1; v <= V; v++) {
+            if (!vis[v] && rgraph[u][v] > 0) {
+                parent[v] = u;
+                if (bfs1(rgraph, v, t, parent, vis)) {
+                    return true;
+                }
+            }
+        }
+
+        return false;  // No path found
+    }
 }
