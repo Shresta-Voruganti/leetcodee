@@ -85,28 +85,28 @@ class Solution {
     }
     
     // Iterative DFS
-    public boolean dfs(int[][] rgraph, int s, int t, int[] parent) {
-        boolean[] vis = new boolean[V + 1];
-        Stack<Integer> stk = new Stack<>();
-        stk.push(s);
-        vis[s] = true;
-        parent[s] = -1;
+    // public boolean dfs(int[][] rgraph, int s, int t, int[] parent) {
+    //     boolean[] vis = new boolean[V + 1];
+    //     Stack<Integer> stk = new Stack<>();
+    //     stk.push(s);
+    //     vis[s] = true;
+    //     parent[s] = -1;
 
-        while(!stk.isEmpty()) {
-            int u = stk.pop();
-            for(int v = 1; v <= V; v++) {
-                if(!vis[v] && rgraph[u][v] > 0) {
-                    parent[v] = u;
-                    vis[v] = true;
-                    if(v == t) {
-                        return true;
-                    }
-                    stk.push(v);
-                }
-            }
-        }
-        return false;
-    }
+    //     while(!stk.isEmpty()) {
+    //         int u = stk.pop();
+    //         for(int v = 1; v <= V; v++) {
+    //             if(!vis[v] && rgraph[u][v] > 0) {
+    //                 parent[v] = u;
+    //                 vis[v] = true;
+    //                 if(v == t) {
+    //                     return true;
+    //                 }
+    //                 stk.push(v);
+    //             }
+    //         }
+    //     }
+    //     return false;
+    // }
     
     // Iterative BFS
     public boolean bfs(int[][] rgraph, int s, int t, int[] parent) {
@@ -157,24 +157,24 @@ class Solution {
     }
     
     // Recursive BFS
-    public boolean bfs1(int[][] rgraph, int u, int t, int[] parent, boolean[] vis) {
-        vis[u] = true;
+    // public boolean bfs1(int[][] rgraph, int u, int t, int[] parent, boolean[] vis) {
+    //     vis[u] = true;
 
-        // If we've reached the target node
-        if (u == t) {
-            return true;
-        }
+    //     // If we've reached the target node
+    //     if (u == t) {
+    //         return true;
+    //     }
 
-        // Explore neighbors recursively
-        for (int v = 1; v <= V; v++) {
-            if (!vis[v] && rgraph[u][v] > 0) {
-                parent[v] = u;
-                if (bfs1(rgraph, v, t, parent, vis)) {
-                    return true;
-                }
-            }
-        }
+    //     // Explore neighbors recursively
+    //     for (int v = 1; v <= V; v++) {
+    //         if (!vis[v] && rgraph[u][v] > 0) {
+    //             parent[v] = u;
+    //             if (bfs1(rgraph, v, t, parent, vis)) {
+    //                 return true;
+    //             }
+    //         }
+    //     }
 
-        return false;  // No path found
-    }
+    //     return false;  // No path found
+    // }
 }
