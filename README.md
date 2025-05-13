@@ -459,6 +459,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -543,6 +544,7 @@
 | [0007-reverse-integer](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
@@ -929,6 +931,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Monotonic Queue
 |  |
