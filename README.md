@@ -93,6 +93,7 @@
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
+| [0926-find-and-replace-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
 | [1002-maximum-width-ramp](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
@@ -247,6 +248,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
+| [0926-find-and-replace-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -327,6 +329,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
+| [0926-find-and-replace-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
