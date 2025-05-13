@@ -535,6 +535,7 @@
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
+| [1090-armstrong-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1090-armstrong-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1421-find-numbers-with-even-number-of-digits) |
