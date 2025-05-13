@@ -799,6 +799,7 @@
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0820-find-eventual-safe-states) |
+| [1101-parallel-courses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1101-parallel-courses) |
 | [1300-critical-connections-in-a-network](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1558-course-schedule-iv) |
@@ -827,6 +828,7 @@
 | [0207-course-schedule](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0820-find-eventual-safe-states) |
+| [1101-parallel-courses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1101-parallel-courses) |
 | [1558-course-schedule-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1558-course-schedule-iv) |
 ## Sliding Window
 |  |
