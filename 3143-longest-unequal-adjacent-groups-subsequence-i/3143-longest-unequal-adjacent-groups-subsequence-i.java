@@ -1,16 +1,20 @@
 class Solution {
     public List<String> getLongestSubsequence(String[] words, int[] groups) {
         List<String> res = new ArrayList<>();
-        int n = words.length;
+        pick(0, words, groups, -1, res);
+        return res;
+    }
 
-        res.add(words[0]);
-
-        for(int i = 1; i < n; i++) {
-            if(groups[i] != groups[i - 1]) {
-                res.add(words[i]);
-            }
+    private void pick(int index, String[] words, int[] groups, int lastpicked, List<String> res) {
+        if(index == words.length) {
+            return;
         }
 
-        return res;
+        if(index == 0 || lastpicked != groups[index]) {
+            res.add(words[index]);
+            lastpicked = groups[index];
+        }
+
+        pick(index + 1, words, groups, lastpicked, res);
     }
 }
