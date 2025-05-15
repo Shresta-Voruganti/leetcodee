@@ -158,6 +158,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -294,6 +295,7 @@
 | [2580-circular-sentence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3447-clear-digits) |
@@ -488,6 +490,7 @@
 | [1250-longest-common-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1659-get-the-maximum-score](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1659-get-the-maximum-score) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -663,6 +666,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1659-get-the-maximum-score](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1659-get-the-maximum-score) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
 | ------- |
