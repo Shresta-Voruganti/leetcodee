@@ -76,6 +76,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
+| [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
@@ -313,6 +314,7 @@
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
+| [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
 | [0490-the-maze](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0490-the-maze) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
@@ -481,6 +483,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
+| [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
 | [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
