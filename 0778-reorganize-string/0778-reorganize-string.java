@@ -5,8 +5,7 @@ class Solution {
             charCounts[c - 'a']++;
         }
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(b[1], a[1]));
-
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> Integer.compare(b[1] , a[1]));
         for(int i = 0; i < 26; i++) {
             if(charCounts[i] > 0) {
                 pq.offer(new int[]{i + 'a', charCounts[i]});
@@ -26,7 +25,6 @@ class Solution {
                 if(pq.isEmpty()) {
                     return "";
                 }
-
                 int[] second = pq.poll();
                 sb.append((char) second[0]);
                 if(--second[1] > 0) {
