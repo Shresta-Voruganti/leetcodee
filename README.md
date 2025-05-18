@@ -33,6 +33,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -451,6 +452,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
@@ -531,6 +533,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0075-sort-colors) |
