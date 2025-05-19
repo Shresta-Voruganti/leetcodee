@@ -168,6 +168,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3429-special-array-i) |
@@ -482,6 +483,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -605,6 +607,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
 ## Recursion
 |  |
 | ------- |
