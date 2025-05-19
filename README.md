@@ -96,6 +96,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
+| [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -272,6 +273,7 @@
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
+| [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
@@ -362,6 +364,7 @@
 | [0694-number-of-distinct-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0694-number-of-distinct-islands) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
+| [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0906-walking-robot-simulation) |
 | [0926-find-and-replace-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0926-find-and-replace-pattern) |
@@ -466,6 +469,7 @@
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
+| [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1075-index-pairs-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1075-index-pairs-of-a-string) |
