@@ -50,6 +50,7 @@
 | [0078-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0136-single-number) |
@@ -525,6 +526,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
@@ -750,6 +752,7 @@
 | [0101-symmetric-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
@@ -805,6 +808,7 @@
 | [0101-symmetric-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
@@ -982,6 +986,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0538-convert-bst-to-greater-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
