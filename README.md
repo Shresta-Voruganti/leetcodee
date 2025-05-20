@@ -782,6 +782,7 @@
 | [0694-number-of-distinct-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0871-keys-and-rooms) |
 | [1073-number-of-enclaves](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1300-critical-connections-in-a-network) |
@@ -846,6 +847,7 @@
 | [0694-number-of-distinct-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0694-number-of-distinct-islands) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -880,6 +882,7 @@
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0820-find-eventual-safe-states) |
+| [0871-keys-and-rooms](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0871-keys-and-rooms) |
 | [1101-parallel-courses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1101-parallel-courses) |
 | [1300-critical-connections-in-a-network](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1300-critical-connections-in-a-network) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
