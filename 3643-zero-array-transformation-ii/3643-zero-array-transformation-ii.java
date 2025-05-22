@@ -1,31 +1,42 @@
 class Solution {
     public int minZeroArray(int[] nums, int[][] queries) {
+        int left = 0, right = queries.length;
+        int ans = -1;
+
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (canZero(nums, queries, mid)) {
+                ans = mid;
+                right = mid - 1; // try fewer queries
+            } else {
+                left = mid + 1;
+            }
+        }
+
+        return ans;
+    }
+
+    private boolean canZero(int[] nums, int[][] queries, int k) {
         int n = nums.length;
-        int rem = 0;
-        for(int num : nums) {
-            if(num != 0) {
-                rem++;
+        long[] dec = new long[n + 2]; // difference array (use long to avoid overflow)
+
+        for (int i = 0; i < k; i++) {
+            int l = queries[i][0];
+            int r = queries[i][1];
+            int val = queries[i][2];
+            dec[l] += val;
+            dec[r + 1] -= val;
+        }
+
+        long sum = 0;
+
+        for (int i = 0; i < n; i++) {
+            sum += dec[i];
+            if (nums[i] > sum) {
+                return false;
             }
         }
-        if(rem == 0) {
-            return 0;
-        }
 
-        for(int k = 0; k < queries.length; k++) {
-            int l = queries[k][0];
-            int r = queries[k][1];
-            int val = queries[k][2];
-
-            for(int i = l; i <= r; i++) {
-                if(nums[i] == 0) continue;
-                int dec = Math.min(val, nums[i]);
-                nums[i] -= dec;
-                if(nums[i] == 0) rem--;
-            }
-
-            if(rem == 0) return k + 1;
-        }
-
-        return -1;
+        return true;
     }
 }
