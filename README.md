@@ -184,6 +184,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3795-zero-array-transformation-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3795-zero-array-transformation-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -534,6 +535,7 @@
 | [1659-get-the-maximum-score](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1659-get-the-maximum-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3795-zero-array-transformation-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3795-zero-array-transformation-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
