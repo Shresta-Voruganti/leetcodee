@@ -627,6 +627,7 @@
 | [2998-count-symmetric-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
