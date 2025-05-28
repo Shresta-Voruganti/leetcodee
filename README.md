@@ -95,6 +95,7 @@
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -526,6 +527,7 @@
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
@@ -646,6 +648,7 @@
 | [0139-word-break](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1236-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
@@ -699,6 +702,7 @@
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0461-hamming-distance) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0899-binary-gap](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0899-binary-gap) |
@@ -867,6 +871,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1057,4 +1062,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1300-critical-connections-in-a-network) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
