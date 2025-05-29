@@ -2,6 +2,7 @@ class Solution {
     public boolean canPartitionKSubsets(int[] nums, int k) {
         int n = nums.length;
         int sum = 0;
+
         for(int num : nums) {
             sum += num;
         }
@@ -42,7 +43,7 @@ class Solution {
     }
 
     private void reverse(int[] nums) {
-        for(int i = 0, j = nums.length - 1; i < j; i++, j--) {
+        for(int i = 0, j = nums.length - 1; i <= j; i++, j--) {
             int temp = nums[i];
             nums[i] = nums[j];
             nums[j] = temp;
