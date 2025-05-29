@@ -871,6 +871,7 @@
 | [0131-palindrome-partitioning](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
+| [0254-factor-combinations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0254-factor-combinations) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
