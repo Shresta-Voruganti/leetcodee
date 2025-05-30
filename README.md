@@ -997,6 +997,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0908-middle-of-the-linked-list) |
+| [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
