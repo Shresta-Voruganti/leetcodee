@@ -19,8 +19,9 @@ class Solution {
 
     private ListNode deletinghehe(ListNode node, int m, int n) {
         ListNode temp = node;
-        for(int i = 1; i < m && temp != null; i++) {
+        while(m > 1 && temp != null) {
             temp = temp.next;
+            m--;
         }
 
         if(temp == null || temp.next == null) {
@@ -28,8 +29,9 @@ class Solution {
         }
 
         ListNode temp2 = temp.next;
-        for(int i = 0; i < n && temp2 != null; i++) {
+        while(n > 0 && temp2 != null) {
             temp2 = temp2.next;
+            n--;
         }
         temp.next = temp2;
         return temp2;
