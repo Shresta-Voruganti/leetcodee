@@ -16,6 +16,9 @@
 class Solution {
     static StringBuilder sb = new StringBuilder();
     public String tree2str(TreeNode root) {
+        if(root == null) {
+            return "";
+        }
         sb.setLength(0);
         preorder(root);
         return sb.toString();
