@@ -20,16 +20,16 @@ class Solution {
             return nodes;
         }
         nodes.add(root.val);
-        if(root.left != null) {
-            leftBoundary(root.left);
-        }
-        // leftBoundary(root.left);
+        // if(root.left != null) {
+        //     leftBoundary(root.left);
+        // }
+        leftBoundary(root.left);
         leaves(root.left);
         leaves(root.right);
-        if(root.right != null) {
-            rightBoundary(root.right);
-        }
-        // rightBoundary(root.right);
+        // if(root.right != null) {
+        //     rightBoundary(root.right);
+        // }
+        rightBoundary(root.right);
         return nodes;
     }
 
