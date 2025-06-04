@@ -101,6 +101,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
+| [0827-expressive-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0827-expressive-words) |
 | [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -293,6 +294,7 @@
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
+| [0827-expressive-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0827-expressive-words) |
 | [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0926-find-and-replace-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -591,6 +593,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0827-expressive-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0827-expressive-words) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
