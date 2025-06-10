@@ -85,6 +85,7 @@
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
+| [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0490-the-maze](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0490-the-maze) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
@@ -288,6 +289,7 @@
 | [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
+| [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0606-construct-string-from-binary-tree) |
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
@@ -541,6 +543,7 @@
 | [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
+| [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
