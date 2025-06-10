@@ -9,6 +9,7 @@ class Solution {
             hmap.put(le, hmap.getOrDefault(le, 0) + 1);
         }
         int[] dp = new int[maxele + 1];
+        dp[0] = 0;
         dp[1] = 1 * hmap.getOrDefault(1, 0);
 
         for(int i = 2; i < maxele + 1; i++) {
