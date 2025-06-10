@@ -98,6 +98,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0724-find-pivot-index](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
@@ -390,6 +391,7 @@
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0694-number-of-distinct-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0694-number-of-distinct-islands) |
+| [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
@@ -537,6 +539,7 @@
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
