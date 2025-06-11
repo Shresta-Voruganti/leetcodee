@@ -14,7 +14,7 @@ class Solution {
                 max = val;
             }
         }
-        int diff = max - min;
-        return diff;
+        
+        return max - min;
     }
 }
