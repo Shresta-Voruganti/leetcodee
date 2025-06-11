@@ -1,20 +1,24 @@
 class Solution {
     public int maxDifference(String s) {
-        Map<Character, Integer> hmap = new HashMap<>();
+        int[] arr = new int[26];
         for(char ch : s.toCharArray()) {
-            hmap.put(ch, hmap.getOrDefault(ch, 0) + 1);
+            arr[ch - 'a']++;
         }
+
         int max = Integer.MIN_VALUE;
         int min = Integer.MAX_VALUE;
-        for(int val : hmap.values()) {
-            if(val % 2 == 0 && val < min) {
-                min = val;
-            }
-            if(val % 2 == 1 && val > max) {
-                max = val;
+
+        for(int i = 0; i < 26; i++) {
+            if(arr[i] > 0) {
+                if(arr[i] % 2 == 0) {
+                    min = Math.min(min, arr[i]);
+                }
+                else {
+                    max = Math.max(max, arr[i]);
+                }
             }
         }
-        
+
         return max - min;
     }
 }
