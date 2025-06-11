@@ -340,6 +340,7 @@
 | [3451-string-compression-iii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
@@ -434,6 +435,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
@@ -586,6 +588,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
