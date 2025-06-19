@@ -160,6 +160,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2358-number-of-ways-to-split-array) |
+| [2411-spiral-matrix-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2411-spiral-matrix-iv) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -241,6 +242,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2411-spiral-matrix-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2551-apply-operations-to-an-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -373,6 +375,7 @@
 | [1663-detect-cycles-in-2d-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1876-map-of-highest-peak](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1876-map-of-highest-peak) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2411-spiral-matrix-iv) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
@@ -1046,6 +1049,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0908-middle-of-the-linked-list) |
 | [1618-delete-n-nodes-after-m-nodes-of-a-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1618-delete-n-nodes-after-m-nodes-of-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2411-spiral-matrix-iv) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
