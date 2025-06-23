@@ -77,6 +77,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0247-strobogrammatic-number-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0247-strobogrammatic-number-ii) |
 | [0252-meeting-rooms](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0252-meeting-rooms) |
+| [0256-paint-house](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0256-paint-house) |
 | [0259-3sum-smaller](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0300-longest-increasing-subsequence) |
@@ -548,6 +549,7 @@
 | [0198-house-robber](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0221-maximal-square) |
+| [0256-paint-house](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0256-paint-house) |
 | [0276-paint-fence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0276-paint-fence) |
 | [0300-longest-increasing-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0322-coin-change) |
