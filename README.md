@@ -564,6 +564,7 @@
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0650-2-keys-keyboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
@@ -652,6 +653,7 @@
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
+| [0650-2-keys-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0650-2-keys-keyboard) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
 | [1090-armstrong-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1090-armstrong-number) |
