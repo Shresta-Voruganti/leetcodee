@@ -22,7 +22,7 @@ class Solution {
         }
         int sum = 0;
         /*
-| Concept             | Your formula      | Java condition        |
+| Concept             | My formula        | Java condition        |
 | ------------------- | ----------------- | --------------------- |
 | AP indices          | t_n = a + (n-1)d  | `i = a + (n - 1) * d` |
 | Rearranged for i    | (i - a) % d == 0  | `(i - a) % d == 0`    |
