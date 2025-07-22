@@ -158,6 +158,7 @@
 | [2048-build-array-from-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -532,6 +533,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
@@ -770,6 +772,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1659-get-the-maximum-score](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1659-get-the-maximum-score) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Trie
 |  |
