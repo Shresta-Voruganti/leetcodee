@@ -10,7 +10,7 @@ class Solution {
         int a = 2;
         int d = 3;
         for(int i = 0; i < n; i++) {
-            if((i - a)%d == 0 && i >= a) {
+            if((i - a) % d == 0 && i >= a) {
                 continue;
             }
             sum += costs.get(i);
