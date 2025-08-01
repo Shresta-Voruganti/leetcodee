@@ -55,6 +55,7 @@
 | [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0136-single-number) |
@@ -547,6 +548,7 @@
 | [0070-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0131-palindrome-partitioning) |
