@@ -566,6 +566,7 @@
 | [0256-paint-house](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0256-paint-house) |
 | [0265-paint-house-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0265-paint-house-ii) |
 | [0276-paint-fence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0276-paint-fence) |
+| [0279-perfect-squares](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
@@ -663,6 +664,7 @@
 | [0089-gray-code](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0650-2-keys-keyboard) |
@@ -959,6 +961,7 @@
 | [0207-course-schedule](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0322-coin-change) |
