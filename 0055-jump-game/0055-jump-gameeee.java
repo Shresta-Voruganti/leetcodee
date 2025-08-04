@@ -5,7 +5,7 @@ class Solution {
         boolean[] dp = new boolean[n];
         dp[0] = true;
         for(int i = 0; i < n; i++) {
-            if(!dp[i]) continue;
+            if(!dp[i]) continue; // skip if you can't reach here
 
             for(int j = 1; j <= nums[i]; j++) {
                 if(i + j < n) {
