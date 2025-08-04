@@ -45,6 +45,7 @@
 | [0051-n-queens](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0064-minimum-path-sum) |
@@ -547,6 +548,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0064-minimum-path-sum) |
@@ -771,6 +773,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
