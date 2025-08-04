@@ -1,7 +1,6 @@
 class Solution {
     public int jump(int[] nums) {
         int n = nums.length;
-        // if(nums[0] >= n - 1) return 1;
         int steps = 0;
         int curend = 0;
         int maxreach = 0;
