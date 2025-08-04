@@ -61,6 +61,7 @@
 | [0118-pascals-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
@@ -397,6 +398,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
@@ -996,6 +998,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0547-number-of-provinces) |
