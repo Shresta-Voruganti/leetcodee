@@ -1,20 +1,25 @@
 class MinStack {
     Stack<Integer> stack;
-    PriorityQueue<Integer> minheap;
+    Stack<Integer> minstack;
 
     public MinStack() {
         stack = new Stack<>();
-        minheap = new PriorityQueue<>();
+        minstack = new Stack<>();
     }
     
     public void push(int val) {
         stack.push(val);
-        minheap.add(val);
+        if(minstack.isEmpty()) {
+            minstack.push(val);
+        }
+        else {
+            minstack.push(Math.min(val, minstack.peek()));
+        }
     }
     
     public void pop() {
-        int val = stack.pop();
-        minheap.remove(val);
+        stack.pop();
+        minstack.pop();
     }
     
     public int top() {
@@ -22,7 +27,7 @@ class MinStack {
     }
     
     public int getMin() {
-        return minheap.peek();
+        return minstack.peek();
     }
 }
 
