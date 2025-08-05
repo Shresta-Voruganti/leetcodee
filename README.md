@@ -756,6 +756,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
@@ -1046,6 +1047,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
