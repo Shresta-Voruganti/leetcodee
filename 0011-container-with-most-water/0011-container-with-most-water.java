@@ -5,14 +5,16 @@ class Solution {
         int j = n - 1;
         int maxarea = 0;
         while(i < j) {
-            int width = j - i;
-            maxarea = Math.max(maxarea, Math.min(height[i], height[j]) * width);
+            int area = 1;
             if(height[i] <= height[j]) {
+                area = height[i] * (j - i);
                 i++;
             }
-            else {
+            else if(height[i] > height[j]) {
+                area = height[j] * (j - i);
                 j--;
             }
+            maxarea = Math.max(area, maxarea);
         }
 
         return maxarea;
