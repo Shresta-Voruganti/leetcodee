@@ -18,6 +18,15 @@ class Solution {
         }
         res.add(current);
 
-        return res.toArray(new int[res.size()][]);
+        // return res.toArray(new int[res.size()][]);
+
+        int n1 = res.size();
+        int[][] res1 = new int[n1][2];
+        for(int i = 0; i < n1; i++) {
+            int[] q = res.get(i);
+            res1[i][0] = q[0];
+            res1[i][1] = q[1];
+        }
+        return res1;
     }
 }
