@@ -2,7 +2,7 @@ class Solution {
     public void rotate(int[][] matrix) {
         int m = matrix.length;
         int n = matrix[0].length;
-        
+
         for(int i = 0; i < m; i++) {
             for(int j = i + 1; j < n; j++) {
                 int temp = matrix[i][j];
