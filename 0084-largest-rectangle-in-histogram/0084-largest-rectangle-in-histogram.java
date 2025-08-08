@@ -16,7 +16,6 @@ class Solution {
             }
             stack.push(i);
         }
-
         return maxarea;
     }
 }
