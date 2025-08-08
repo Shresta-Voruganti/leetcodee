@@ -9,7 +9,6 @@ class Solution {
         for(char ch : t.toCharArray()) {
             hmap2.put(ch, hmap2.getOrDefault(ch, 0) + 1);
         }
-        String res = "";
         int reslen = Integer.MAX_VALUE;
 
         Map<Character, Integer> hmap1 = new HashMap<>();
