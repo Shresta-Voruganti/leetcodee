@@ -18,7 +18,6 @@ public class Solution {
             pa = (pa == null) ? headB : pa.next;
             pb = (pb == null) ? headA : pb.next;
         }
-
         return pa;
     }
 }
