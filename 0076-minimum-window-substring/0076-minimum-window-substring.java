@@ -5,14 +5,14 @@ class Solution {
 
         if(n > m) return "";
 
-        Map<Character, Integer> hmap2 = new TreeMap<>();
+        Map<Character, Integer> hmap2 = new HashMap<>();
         for(char ch : t.toCharArray()) {
             hmap2.put(ch, hmap2.getOrDefault(ch, 0) + 1);
         }
         String res = "";
         int reslen = Integer.MAX_VALUE;
 
-        Map<Character, Integer> hmap1 = new TreeMap<>();
+        Map<Character, Integer> hmap1 = new HashMap<>();
         int have = 0;
         int need = hmap2.size();
         int l = 0;
