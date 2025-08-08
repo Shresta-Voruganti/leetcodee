@@ -1,6 +1,6 @@
 class Solution {
     private double[][] dp;
-    private final int[][] moves = new int[][] {
+    private final int[][] moves = new int[][]{
         {4, 0},
         {3, 1},
         {2, 2},
@@ -11,10 +11,12 @@ class Solution {
 
         int units = (n + 24) / 25;
         dp = new double[units + 1][units + 1];
+
         for(double[] row : dp) {
             Arrays.fill(row, -1.0);
         }
-        return dfs(units, units);
+
+        return dfs(units, units);  
     }
 
     private double dfs(int a, int b) {
@@ -25,6 +27,7 @@ class Solution {
         if(dp[a][b] >= 0) return dp[a][b];
 
         double res = 0.0;
+
         for(int[] mv : moves) {
             int na = a - mv[0];
             int nb = b - mv[1];
