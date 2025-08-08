@@ -546,6 +546,7 @@
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0252-meeting-rooms) |
 | [0259-3sum-smaller](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0259-3sum-smaller) |
+| [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
@@ -662,6 +663,7 @@
 | [0259-3sum-smaller](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
@@ -745,6 +747,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
@@ -1065,6 +1068,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
@@ -1204,4 +1208,8 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0826-soup-servings) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
