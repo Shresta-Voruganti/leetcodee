@@ -298,6 +298,7 @@
 | [0014-longest-common-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0097-interleaving-string) |
@@ -412,6 +413,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
@@ -1088,6 +1090,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
