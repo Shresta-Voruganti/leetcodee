@@ -701,6 +701,7 @@
 | [0089-gray-code](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
@@ -731,6 +732,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0247-strobogrammatic-number-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0247-strobogrammatic-number-ii) |
 | [0394-decode-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0394-decode-string) |
@@ -802,6 +804,7 @@
 | [0089-gray-code](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
