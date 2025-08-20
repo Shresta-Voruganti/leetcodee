@@ -359,6 +359,7 @@
 | [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2580-circular-sentence) |
