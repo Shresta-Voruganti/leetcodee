@@ -10,48 +10,33 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        if(head == null || head.next == null) return head;
-
-        ListNode slow = head;
-        ListNode fast = head;
-        ListNode prev = null;
-
-        while(fast != null && fast.next != null) {
-            prev = slow;
-            slow = slow.next;
-            fast = fast.next.next;
+        if(head == null) return null;
+        ListNode head1 = null;
+        ListNode tail = null;
+        Map<Integer, Integer> hmap = new TreeMap<>();
+        ListNode p1 = head;
+        while(p1 != null) {
+            hmap.put(p1.val, hmap.getOrDefault(p1.val, 0) + 1);
+            p1 = p1.next;
         }
-        prev.next = null;
-
-        ListNode l1 = sortList(head);
-        ListNode l2 = sortList(slow);
-
-        return merge(l1, l2);
-    }
-
-    private ListNode merge(ListNode l1, ListNode l2) {
-        ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
-
-        while(l1 != null && l2 != null) {
-            if(l1.val < l2.val) {
-                tail.next = l1;
-                l1 = l1.next;
+        
+        for(Map.Entry<Integer, Integer> e : hmap.entrySet()) {
+            int key = e.getKey();
+            int val = e.getValue();
+            
+            for(int i = 0; i < val; i++) {
+                ListNode temp = new ListNode(key);
+                if(head1 == null) {
+                    head1 = temp;
+                    tail = head1;
+                }
+                else {
+                    tail.next = temp;
+                    tail = tail.next;
+                }
             }
-            else {
-                tail.next = l2;
-                l2 = l2.next;
-            }
-            tail = tail.next;
         }
 
-        if(l1 != null) {
-            tail.next = l1;
-        }
-        else if(l2 != null) {
-            tail.next = l2;
-        }
-
-        return dummy.next;
+        return head1;
     }
 }
