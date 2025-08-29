@@ -1,6 +1,5 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        int n = strs.length;
         // Set<char[]> checks = new HashSet();
         // Map<char[], List<String>> hmap = new HashMap<>();
         Set<String> checks = new HashSet<>();
