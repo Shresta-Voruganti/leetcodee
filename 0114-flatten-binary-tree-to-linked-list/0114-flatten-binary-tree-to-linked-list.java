@@ -19,11 +19,11 @@ class Solution {
         if(root == null) return;
         list = new ArrayList<>();
         preorder(root);
+        // root.left = null;
+        // root.right = null;
         TreeNode curr = root;
         curr.val = list.get(0);
         curr.left = null;
-        // root.left = null;
-        // root.right = null;
         for(int i = 1; i < list.size(); i++) {
             int val = list.get(i);
             TreeNode node = new TreeNode(val);
