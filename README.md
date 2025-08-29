@@ -326,6 +326,7 @@
 | [0394-decode-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0606-construct-string-from-binary-tree) |
@@ -440,6 +441,7 @@
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1135,6 +1137,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
