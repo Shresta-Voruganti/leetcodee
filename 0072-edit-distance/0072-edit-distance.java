@@ -2,31 +2,30 @@ class Solution {
     public int minDistance(String word1, String word2) {
         int m = word1.length();
         int n = word2.length();
-        int[][] dp = new int[m + 1][n + 1];
-        for(int i = 0; i <= m; i++) {
-            Arrays.fill(dp[i], -1);
+        int[] prev = new int[n + 1];
+        int[] cur = new int[n + 1];
+    
+        for(int j = 0; j <= n; j++) {
+            prev[j] = j;
         }
-        return f(m, n, word1.toCharArray(), word2.toCharArray(), dp);
-    }
 
-    private int f(int i, int j, char[] s1, char[] s2, int[][] dp) {
-        if(i == 0) return j;
-        if(j == 0) return i;
-        if(dp[i][j] != -1) return dp[i][j];
-        if(s1[i - 1] == s2[j - 1]) return dp[i][j] = 0 + f(i - 1, j - 1, s1, s2, dp);
-        else {
-            return dp[i][j] = Math.min(
-                1 + f(i - 1, j - 1, s1, s2, dp), Math.min(
-                    1 + f(i, j - 1, s1, s2, dp),
-                    1 + f(i - 1, j, s1, s2, dp)
-                )
-            );
-            // return dp[i][j] = 1 + Math.min(
-            //     f(i - 1, j - 1, s1, s2, dp), Math.min(
-            //         f(i, j - 1, s1, s2, dp),
-            //         f(i - 1, j, s1, s2, dp)
-            //     )
-            // );
+        for(int i = 1; i <= m; i++) {
+            cur[0] = i;
+            for(int j = 1; j <= n; j++) {
+                if(word1.charAt(i - 1) == word2.charAt(j - 1)) {
+                    cur[j] = 0 + prev[j - 1];
+                }
+                else {
+                    cur[j] = 1 + Math.min(prev[j], Math.min(
+                        prev[j - 1], cur[j - 1]
+                    ));
+                }
+            }
+            int[] temp = prev;
+            prev = cur;
+            cur = temp;
         }
+
+        return prev[n];
     }
 }
