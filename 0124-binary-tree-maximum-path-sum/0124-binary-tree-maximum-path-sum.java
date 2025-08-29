@@ -31,7 +31,5 @@ class Solution {
         maxsum = Math.max(maxsum, curpath);
 
         return node.val + Math.max(left, right);
-        
     }
-
 }
