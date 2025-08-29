@@ -6,12 +6,14 @@ class Solution {
         Set<String> checks = new HashSet<>();
         Map<String, List<String>> hmap = new HashMap<>();
         List<List<String>> res = new ArrayList<>();
+
         for(String s : strs) {
             char[] chs = s.toCharArray();
             Arrays.sort(chs);
             // checks.add(chs);
             checks.add(new String(chs));
         }
+        
         // for(char[] ch : checks) {
         //     hmap.put(ch, new ArrayList<>());
         // }
