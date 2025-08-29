@@ -10,28 +10,21 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
+        PriorityQueue<ListNode> pq = new PriorityQueue<>((a, b) -> a.val - b.val);
+
+        for(ListNode node : lists) {
+            if(node != null) pq.add(node);
+        }
+
         ListNode dummy = new ListNode(-1);
         ListNode tail = dummy;
 
-        while(true) {
-            int minindex = -1;
-            int minvalue = Integer.MAX_VALUE;
-
-            for(int i = 0; i < lists.length; i++) {
-                if(lists[i] != null && lists[i].val < minvalue) {
-                    minvalue = lists[i].val;
-                    minindex = i;
-                }
-            }
-
-            if(minindex == -1) {
-                break;
-            }
-
-            tail.next = lists[minindex];
+        while(!pq.isEmpty()) {
+            ListNode minNode = pq.poll();
+            tail.next = minNode;
             tail = tail.next;
 
-            lists[minindex] = lists[minindex].next;
+            if(minNode.next != null) pq.add(minNode.next);
         }
 
         return dummy.next;
