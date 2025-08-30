@@ -1,5 +1,5 @@
 class LRUCache {
-    private final int capacity;
+    int capacity;
     Map<Integer, Integer> lhmap;
     public LRUCache(int capacity) {
         this.capacity = capacity;
