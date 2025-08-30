@@ -431,6 +431,7 @@
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
@@ -1117,6 +1118,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
@@ -1182,6 +1184,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0206-reverse-linked-list) |
@@ -1245,6 +1248,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0146-lru-cache) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
