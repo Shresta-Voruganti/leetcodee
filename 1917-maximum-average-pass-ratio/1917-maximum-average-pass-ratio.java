@@ -26,10 +26,6 @@ class Solution {
 }
 
 
-
-
-
-
 // class Solution {
 //     public double maxAverageRatio(int[][] classes, int extraStudents) {
 //         int n = classes.length;
