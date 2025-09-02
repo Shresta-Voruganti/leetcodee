@@ -16,17 +16,27 @@ class Solution {
                     y2 = points[i][1];
                     if(x1 <= x2 && y1 >= y2) {
                         boolean valid = true;
-                        int[] p1 = new int[2];
-                        int[] p2 = new int[2];
-                        p1[0] = x1; p1[1] = y1;
-                        p2[0] = x2; p2[1] = y2;
+                        // int[] p1 = new int[2];
+                        // int[] p2 = new int[2];
+                        // p1[0] = x1; p1[1] = y1;
+                        // p2[0] = x2; p2[1] = y2;
+                        // List<int[]> l1 = new ArrayList<>();
+                        // l1.add(p1);
+                        // l1.add(p2);
+                        // Collections.sort(l1, (a, b) -> {
+                        //         if (a[0] != b[0]) return Integer.compare(a[0], b[0]);
+                        //         return Integer.compare(a[1], b[1]);
+                        // });
+                        int[] p1 = {x1, y1};
+                        int[] p2 = {x2, y2};
                         List<int[]> l1 = new ArrayList<>();
-                        l1.add(p1);
-                        l1.add(p2);
-                        Collections.sort(l1, (a, b) -> {
-                                if (a[0] != b[0]) return Integer.compare(a[0], b[0]);
-                                return Integer.compare(a[1], b[1]);
-                        });
+                        if (p1[0] < p2[0] || (p1[0] == p2[0] && p1[1] <= p2[1])) {
+                            l1.add(p1);
+                            l1.add(p2);
+                        } else {
+                            l1.add(p2);
+                            l1.add(p1);
+                        }
                         for(int k = 0; k < n; k++) {
                             if(k == i || k == j) {
                                 continue;
