@@ -200,6 +200,7 @@
 | [3194-find-words-containing-character](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -584,6 +585,7 @@
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -755,6 +757,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3227-find-missing-and-repeated-values) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3321-type-of-triangle) |
 | [3830-find-closest-person](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -1240,6 +1243,7 @@
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1287,4 +1291,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
