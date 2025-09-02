@@ -123,6 +123,7 @@
 | [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
+| [0747-min-cost-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
 | [0827-expressive-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0827-expressive-words) |
 | [0828-chalkboard-xor-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0828-chalkboard-xor-game) |
@@ -632,6 +633,7 @@
 | [0650-2-keys-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0650-2-keys-keyboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
+| [0747-min-cost-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0826-soup-servings) |
 | [0875-longest-mountain-in-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
