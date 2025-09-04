@@ -6,8 +6,11 @@ class Solution {
             hmap.put(num, hmap.getOrDefault(num, 0) + 1);
         }
         for(int num : hmap.values()) {
+            if(hset.contains(num)) {
+                return false;
+            }
             hset.add(num);
         }
-        return hmap.size() == hset.size();
+        return true;
     }
 }
