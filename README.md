@@ -149,6 +149,7 @@
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
@@ -470,6 +471,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
+| [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1447-jump-game-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
