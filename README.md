@@ -124,6 +124,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
+| [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
 | [0827-expressive-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0827-expressive-words) |
 | [0828-chalkboard-xor-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0828-chalkboard-xor-game) |
@@ -340,6 +341,7 @@
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
+| [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
@@ -462,6 +464,7 @@
 | [0694-number-of-distinct-islands](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0694-number-of-distinct-islands) |
 | [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
+| [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -901,6 +904,7 @@
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
+| [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
 | [1075-index-pairs-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1075-index-pairs-of-a-string) |
 | [2009-longest-word-with-all-prefixes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2009-longest-word-with-all-prefixes) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -908,6 +912,7 @@
 |  |
 | ------- |
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
+| [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2292-counting-words-with-a-given-prefix) |
