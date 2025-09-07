@@ -9,12 +9,10 @@ class Solution {
         }
         int ind = 0;
         int i = 0;
-        // int assigned = 0;
         int j = 0;
 
         while(ind < n - 1) {
             nums[ind++] = increase[i++];
-            // assigned++;
             nums[ind++] = decrease[j++];
         }
 
