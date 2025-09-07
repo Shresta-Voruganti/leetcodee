@@ -4,7 +4,8 @@ class Solution {
         String org = Integer.toString(n);
         StringBuilder sb = new StringBuilder();
 
-        for(int i = org.length() - 1; i >= 0; i--) {
+        // for(int i = org.length() - 1; i >= 0; i--) -- if u use this line,
+        for(int i = 0; i < org.length(); i++) {
             boolean found = false;
             int ind = -1;
             char target = org.charAt(i);
@@ -21,7 +22,8 @@ class Solution {
             sb.append(mapping[ind][1]);
         }
 
-        String mod = sb.toString();
+        // String mod = sb.toString(); -- then use this line
+        String mod = sb.reverse().toString();
         int m = Integer.valueOf(mod);
 
         return m != n;
