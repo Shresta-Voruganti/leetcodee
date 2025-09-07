@@ -142,6 +142,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
+| [1052-campus-bikes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1052-campus-bikes) |
 | [1059-missing-element-in-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1059-missing-element-in-sorted-array) |
 | [1066-fixed-point](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1066-fixed-point) |
 | [1067-campus-bikes-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1067-campus-bikes-ii) |
@@ -589,6 +590,7 @@
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1052-campus-bikes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1052-campus-bikes) |
 | [1075-index-pairs-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1075-index-pairs-of-a-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -812,6 +814,7 @@
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1052-campus-bikes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1052-campus-bikes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1917-maximum-average-pass-ratio) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
