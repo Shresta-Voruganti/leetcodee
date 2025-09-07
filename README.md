@@ -326,6 +326,7 @@
 | [0139-word-break](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0151-reverse-words-in-a-string) |
+| [0161-one-edit-distance](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0161-one-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
@@ -708,6 +709,7 @@
 | [0148-sort-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0160-intersection-of-two-linked-lists) |
+| [0161-one-edit-distance](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0161-one-edit-distance) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
