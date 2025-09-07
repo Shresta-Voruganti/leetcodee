@@ -761,6 +761,7 @@
 | [0826-soup-servings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0828-chalkboard-xor-game) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
+| [1069-confusing-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1069-confusing-number) |
 | [1090-armstrong-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1090-armstrong-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1236-n-th-tribonacci-number) |
