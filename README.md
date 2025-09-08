@@ -116,6 +116,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0605-can-place-flowers) |
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
+| [0624-maximum-distance-in-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0624-maximum-distance-in-arrays) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -904,6 +905,7 @@
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0605-can-place-flowers) |
+| [0624-maximum-distance-in-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0957-minimum-add-to-make-parentheses-valid) |
