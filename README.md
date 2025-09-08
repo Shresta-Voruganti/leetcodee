@@ -341,6 +341,7 @@
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0606-construct-string-from-binary-tree) |
@@ -929,6 +930,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0459-repeated-substring-pattern) |
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
 | [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
 | [0812-rotate-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0812-rotate-string) |
