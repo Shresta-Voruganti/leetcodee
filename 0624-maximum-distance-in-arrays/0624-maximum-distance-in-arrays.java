@@ -16,7 +16,7 @@ class Solution {
 
             globalmax = Math.max(globalmax, curmax);
             globalmin = Math.min(globalmin, curmin);
-        }
+        }   
 
         return maxdist;
     }
