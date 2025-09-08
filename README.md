@@ -149,6 +149,7 @@
 | [1067-campus-bikes-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1067-campus-bikes-ii) |
 | [1073-number-of-enclaves](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1073-number-of-enclaves) |
 | [1075-index-pairs-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1075-index-pairs-of-a-string) |
+| [1098-largest-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1098-largest-unique-number) |
 | [1138-grumpy-bookstore-owner](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1138-grumpy-bookstore-owner) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -479,6 +480,7 @@
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
+| [1098-largest-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1098-largest-unique-number) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
@@ -595,6 +597,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1052-campus-bikes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1052-campus-bikes) |
 | [1075-index-pairs-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1075-index-pairs-of-a-string) |
+| [1098-largest-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1098-largest-unique-number) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1798-max-number-of-k-sum-pairs) |
