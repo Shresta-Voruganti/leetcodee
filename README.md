@@ -156,6 +156,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
+| [1345-perform-string-shifts](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1345-perform-string-shifts) |
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -363,6 +364,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1345-perform-string-shifts](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1345-perform-string-shifts) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
@@ -769,6 +771,7 @@
 | [1090-armstrong-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1090-armstrong-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1236-n-th-tribonacci-number) |
+| [1345-perform-string-shifts](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1345-perform-string-shifts) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1430-find-the-k-beauty-of-a-number) |
