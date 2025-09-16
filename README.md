@@ -767,6 +767,7 @@
 | [0412-fizz-buzz](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0650-2-keys-keyboard) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [0826-soup-servings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0828-chalkboard-xor-game) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
@@ -806,6 +807,7 @@
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0247-strobogrammatic-number-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0247-strobogrammatic-number-ii) |
 | [0394-decode-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0394-decode-string) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2050-count-good-numbers) |
@@ -886,6 +888,7 @@
 | [0461-hamming-distance](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0461-hamming-distance) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0800-letter-case-permutation) |
 | [0828-chalkboard-xor-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0828-chalkboard-xor-game) |
 | [0899-binary-gap](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0899-binary-gap) |
