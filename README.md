@@ -151,6 +151,7 @@
 | [1073-number-of-enclaves](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1073-number-of-enclaves) |
 | [1075-index-pairs-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1075-index-pairs-of-a-string) |
 | [1098-largest-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1098-largest-unique-number) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1138-grumpy-bookstore-owner](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1138-grumpy-bookstore-owner) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -255,6 +256,7 @@
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
 | [1059-missing-element-in-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1059-missing-element-in-sorted-array) |
 | [1066-fixed-point](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1066-fixed-point) |
+| [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
