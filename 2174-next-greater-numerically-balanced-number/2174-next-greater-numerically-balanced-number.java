@@ -1,7 +1,7 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
         int num = -1;
-        for(int i = n + 1; ; i++) {
+        for(int i = n + 1; i; i++) {
             if(isBalanced(i)) {
                 num = i;
                 break;
