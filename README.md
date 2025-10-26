@@ -187,6 +187,7 @@
 | [2048-build-array-from-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-simple-bank-system](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2169-simple-bank-system) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2280-count-good-triplets-in-an-array) |
@@ -279,6 +280,7 @@
 | [2048-build-array-from-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2048-build-array-from-permutation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-simple-bank-system](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2411-spiral-matrix-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2411-spiral-matrix-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2551-apply-operations-to-an-array) |
@@ -505,6 +507,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2107-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2169-simple-bank-system) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1183,6 +1186,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
+| [2169-simple-bank-system](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2169-simple-bank-system) |
 ## Rolling Hash
 |  |
 | ------- |
