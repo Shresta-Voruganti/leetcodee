@@ -1,4 +1,5 @@
 class Solution {
+    // static Set<Character> hset = Set.of('a','e','i','o','u');
     static Set<Character> hset = new HashSet<>(Arrays.asList('a','e','i','o','u'));
     public int maxVowels(String s, int k) {
         int max = 0;
