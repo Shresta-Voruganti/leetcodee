@@ -2,18 +2,19 @@ class Solution {
     public int numberOfBeams(String[] bank) {
         int m = bank.length;
         int n = bank[0].length();
-        int[][] mat = new int[m][n];
+        int[] rowones = new int[m];
         boolean[] rows = new boolean[m];
         int count = 0;
-        Arrays.fill(rows, false);
+
         for(int i = 0; i < m; i++) {
-            String row = bank[i];
-            if(row.contains(String.valueOf('1'))) rows[i] = true;
-            // if(row.indexOf('1') != -1) rows[i] = true;
+            int ones = 0;
             for(int j = 0; j < n; j++) {
-                mat[i][j] = row.charAt(j) - '0';
+                if(bank[i].charAt(j) == '1') ones++;
             }
+            rowones[i] = ones;
+            rows[i] = ones > 0;
         }
+
         for(int i = 0; i < m; i++) {
             if(rows[i]) {
                 int nextrow = -1;
@@ -24,17 +25,10 @@ class Solution {
                     }
                 }
                 if(nextrow == -1) continue;
-                for(int j = 0; j < n; j++) {
-                    if(mat[i][j] == 1) {
-                        for(int l = 0; l < n; l++) {
-                            if(mat[nextrow][l] == 1) {
-                                count++;
-                            }
-                        }
-                    }
-                }
+                count += (rowones[i] * rowones[nextrow]);
             }
         }
+
         return count;
     }
 }
