@@ -353,6 +353,7 @@
 | [0247-strobogrammatic-number-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0247-strobogrammatic-number-ii) |
 | [0266-palindrome-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0266-palindrome-permutation) |
 | [0290-word-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0290-word-pattern) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0344-reverse-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0392-is-subsequence) |
@@ -485,6 +486,7 @@
 | [0266-palindrome-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0266-palindrome-permutation) |
 | [0290-word-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0290-word-pattern) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1252,6 +1254,7 @@
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0239-sliding-window-maximum) |
+| [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
