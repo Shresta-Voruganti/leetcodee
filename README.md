@@ -108,6 +108,7 @@
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0485-max-consecutive-ones) |
+| [0487-max-consecutive-ones-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0490-the-maze) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
@@ -684,6 +685,7 @@
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
+| [0487-max-consecutive-ones-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0487-max-consecutive-ones-ii) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0650-2-keys-keyboard) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1257,6 +1259,7 @@
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0487-max-consecutive-ones-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0487-max-consecutive-ones-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
