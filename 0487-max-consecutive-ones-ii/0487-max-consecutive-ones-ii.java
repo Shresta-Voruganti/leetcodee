@@ -6,6 +6,7 @@ class Solution {
             if(nums[i] == 0) pos.add(i);
         }
         int maxcount = findconsecOnes(nums);
+        if(pos.isEmpty()) return maxcount;
         for(Integer d : pos) {
             nums[d] = 1;
             int con = findconsecOnes(nums);
