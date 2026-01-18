@@ -130,6 +130,7 @@
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0747-min-cost-climbing-stairs](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0747-min-cost-climbing-stairs) |
 | [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
+| [0760-find-anagram-mappings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-find-anagram-mappings) |
 | [0792-binary-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0792-binary-search) |
 | [0827-expressive-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0827-expressive-words) |
 | [0828-chalkboard-xor-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0828-chalkboard-xor-game) |
@@ -503,6 +504,7 @@
 | [0740-delete-and-earn](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0740-delete-and-earn) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [0760-bold-words-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-bold-words-in-string) |
+| [0760-find-anagram-mappings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0760-find-anagram-mappings) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [0862-find-and-replace-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0862-find-and-replace-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0905-length-of-longest-fibonacci-subsequence) |
