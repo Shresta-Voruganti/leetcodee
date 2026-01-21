@@ -105,6 +105,7 @@
 | [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
 | [0413-arithmetic-slices](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0422-valid-word-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0422-valid-word-square) |
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0485-max-consecutive-ones) |
@@ -445,6 +446,7 @@
 | [0221-maximal-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
+| [0422-valid-word-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0422-valid-word-square) |
 | [0490-the-maze](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0490-the-maze) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
