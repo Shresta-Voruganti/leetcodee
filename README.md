@@ -100,6 +100,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0307-range-sum-query-mutable) |
+| [0311-sparse-matrix-multiplication](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0311-sparse-matrix-multiplication) |
 | [0322-coin-change](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
@@ -446,6 +447,7 @@
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
+| [0311-sparse-matrix-multiplication](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0311-sparse-matrix-multiplication) |
 | [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
 | [0422-valid-word-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0422-valid-word-square) |
 | [0490-the-maze](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0490-the-maze) |
@@ -499,6 +501,7 @@
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0266-palindrome-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0266-palindrome-permutation) |
 | [0290-word-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0290-word-pattern) |
+| [0311-sparse-matrix-multiplication](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0311-sparse-matrix-multiplication) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0340-longest-substring-with-at-most-k-distinct-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0340-longest-substring-with-at-most-k-distinct-characters) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
