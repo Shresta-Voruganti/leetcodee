@@ -386,6 +386,7 @@
 | [1075-index-pairs-of-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1075-index-pairs-of-a-string) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1165-single-row-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1165-single-row-keyboard) |
 | [1250-longest-common-subsequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1345-perform-string-shifts](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1345-perform-string-shifts) |
@@ -521,6 +522,7 @@
 | [1098-largest-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1098-largest-unique-number) |
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1165-single-row-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1165-single-row-keyboard) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
