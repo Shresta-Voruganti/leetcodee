@@ -114,6 +114,7 @@
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0503-next-greater-element-ii) |
+| [0531-lonely-pixel-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0531-lonely-pixel-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0560-subarray-sum-equals-k) |
@@ -448,6 +449,7 @@
 | [0361-bomb-enemy](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0361-bomb-enemy) |
 | [0422-valid-word-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0422-valid-word-square) |
 | [0490-the-maze](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0490-the-maze) |
+| [0531-lonely-pixel-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0531-lonely-pixel-i) |
 | [0542-01-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1036-rotting-oranges) |
@@ -504,6 +506,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
+| [0531-lonely-pixel-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0531-lonely-pixel-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
