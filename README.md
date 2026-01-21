@@ -161,6 +161,7 @@
 | [1138-grumpy-bookstore-owner](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1138-grumpy-bookstore-owner) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
@@ -271,6 +272,7 @@
 | [1066-fixed-point](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1066-fixed-point) |
 | [1102-check-if-a-number-is-majority-element-in-a-sorted-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1102-check-if-a-number-is-majority-element-in-a-sorted-array) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -450,6 +452,7 @@
 | [1073-number-of-enclaves](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1073-number-of-enclaves) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -524,6 +527,7 @@
 | [1100-find-k-length-substrings-with-no-repeated-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1100-find-k-length-substrings-with-no-repeated-characters) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
 | [1165-single-row-keyboard](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1165-single-row-keyboard) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
@@ -737,6 +741,7 @@
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1034-subarrays-with-k-different-integers) |
 | [1143-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1143-find-smallest-common-element-in-all-rows) |
+| [1198-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1502-construct-k-palindrome-strings) |
