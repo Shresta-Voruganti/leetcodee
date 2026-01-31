@@ -93,6 +93,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0240-search-a-2d-matrix-ii) |
 | [0247-strobogrammatic-number-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0247-strobogrammatic-number-ii) |
 | [0252-meeting-rooms](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0256-paint-house) |
 | [0259-3sum-smaller](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0259-3sum-smaller) |
 | [0265-paint-house-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0265-paint-house-ii) |
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -643,6 +645,7 @@
 | [0217-contains-duplicate](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0259-3sum-smaller) |
 | [0280-wiggle-sort](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0280-wiggle-sort) |
 | [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
@@ -784,6 +787,7 @@
 | [0189-rotate-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
+| [0253-meeting-rooms-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0253-meeting-rooms-ii) |
 | [0259-3sum-smaller](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0259-3sum-smaller) |
 | [0283-move-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0287-find-the-duplicate-number) |
@@ -894,6 +898,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0692-top-k-frequent-words) |
@@ -976,6 +981,7 @@
 | [0045-jump-game-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0253-meeting-rooms-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0253-meeting-rooms-ii) |
 | [0280-wiggle-sort](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0280-wiggle-sort) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
