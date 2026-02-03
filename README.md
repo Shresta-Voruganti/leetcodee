@@ -364,6 +364,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0242-valid-anagram) |
 | [0247-strobogrammatic-number-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0247-strobogrammatic-number-ii) |
 | [0266-palindrome-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0266-palindrome-permutation) |
@@ -833,6 +834,7 @@
 | [0189-rotate-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0367-valid-perfect-square) |
@@ -941,6 +943,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
