@@ -1,7 +1,9 @@
 class Solution {
     public String parseTernary(String expression) {
         Stack<Character> stack = new Stack<>();
+       
         int n = expression.length();
+
         for(int i = n - 1; i >= 0; i--) {
             char c = expression.charAt(i);
 
@@ -9,7 +11,6 @@ class Solution {
                 char trueval = stack.pop();
                 stack.pop();
                 char falseval = stack.pop();
-
                 i--;
                 if(expression.charAt(i) == 'T') {
                     stack.push(trueval);
