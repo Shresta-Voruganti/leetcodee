@@ -111,6 +111,7 @@
 | [0422-valid-word-square](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0422-valid-word-square) |
 | [0436-find-right-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
+| [0484-find-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0484-find-permutation) |
 | [0485-max-consecutive-ones](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0490-the-maze) |
@@ -377,6 +378,7 @@
 | [0439-ternary-expression-parser](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0439-ternary-expression-parser) |
 | [0459-repeated-substring-pattern](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0474-ones-and-zeroes) |
+| [0484-find-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0484-find-permutation) |
 | [0500-keyboard-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0500-keyboard-row) |
 | [0606-construct-string-from-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0606-construct-string-from-binary-tree) |
 | [0616-add-bold-tag-in-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0616-add-bold-tag-in-string) |
@@ -939,6 +941,7 @@
 | [0394-decode-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
 | [0439-ternary-expression-parser](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0439-ternary-expression-parser) |
+| [0484-find-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0484-find-permutation) |
 | [0496-next-greater-element-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0739-daily-temperatures) |
@@ -989,6 +992,7 @@
 | [0280-wiggle-sort](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0280-wiggle-sort) |
 | [0397-integer-replacement](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0402-remove-k-digits) |
+| [0484-find-permutation](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0484-find-permutation) |
 | [0605-can-place-flowers](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0778-reorganize-string) |
