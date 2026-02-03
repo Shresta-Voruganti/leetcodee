@@ -168,6 +168,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1198-find-smallest-common-element-in-all-rows](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1198-find-smallest-common-element-in-all-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1256-rank-transform-of-an-array) |
+| [1272-remove-interval](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1272-remove-interval) |
 | [1319-unique-number-of-occurrences](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1331-path-with-maximum-gold) |
 | [1345-perform-string-shifts](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1345-perform-string-shifts) |
