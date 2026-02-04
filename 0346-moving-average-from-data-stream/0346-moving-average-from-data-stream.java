@@ -1,29 +1,24 @@
 class MovingAverage {
     int k;
-    int count;
     int res;
     List<Integer> resl;
+    
     public MovingAverage(int size) {
-        k = size;
-        resl = new ArrayList<>();
+        this.k = size;
+        this.resl = new ArrayList<>();
     }
     
     public double next(int val) {
         double avg = 0.0;
-        count++;
-        if(count <= k) {
-            resl.add(val);
-            res += val;
-            avg = (double) res/count;
-        }
-        if(count > k) {
-            resl.add(val);
-            res += val;
-            int valt = resl.get(0);
-            res -= valt;
+        resl.add(val);
+        res += val;
+
+        if(resl.size() > k) {
+            res -= resl.get(0);
             resl.remove(0);
-            avg = (double) res/k;
         }
+
+        avg = (double) res/resl.size();
         return avg;
     }
 }
