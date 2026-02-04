@@ -180,6 +180,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1426-counting-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1426-counting-elements) |
+| [1429-first-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1429-first-unique-number) |
 | [1447-jump-game-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1447-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1470-shuffle-the-array) |
@@ -552,6 +553,7 @@
 | [1364-tuple-with-same-product](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1426-counting-elements](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1426-counting-elements) |
+| [1429-first-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1429-first-unique-number) |
 | [1447-jump-game-iv](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1447-jump-game-iv) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1276,6 +1278,7 @@
 | [0346-moving-average-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0346-moving-average-from-data-stream) |
 | [0746-prefix-and-suffix-search](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0746-prefix-and-suffix-search) |
 | [1023-time-based-key-value-store](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1023-time-based-key-value-store) |
+| [1429-first-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1429-first-unique-number) |
 | [1713-dot-product-of-two-sparse-vectors](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1713-dot-product-of-two-sparse-vectors) |
 | [2169-simple-bank-system](https://github.com/Shresta-Voruganti/leetcodee/tree/master/2169-simple-bank-system) |
 ## Rolling Hash
@@ -1368,6 +1371,7 @@
 | [0239-sliding-window-maximum](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0239-sliding-window-maximum) |
 | [0346-moving-average-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0346-moving-average-from-data-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1429-first-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1429-first-unique-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shresta-Voruganti/leetcodee/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Indexed Tree
@@ -1448,6 +1452,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0295-find-median-from-data-stream) |
 | [0346-moving-average-from-data-stream](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0346-moving-average-from-data-stream) |
+| [1429-first-unique-number](https://github.com/Shresta-Voruganti/leetcodee/tree/master/1429-first-unique-number) |
 ## Geometry
 |  |
 | ------- |
