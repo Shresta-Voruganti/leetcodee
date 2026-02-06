@@ -1082,6 +1082,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1115,6 +1116,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0310-minimum-height-trees](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0310-minimum-height-trees) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -1163,6 +1165,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0298-binary-tree-longest-consecutive-sequence](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0298-binary-tree-longest-consecutive-sequence) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0437-path-sum-iii](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Shresta-Voruganti/leetcodee/tree/master/0515-find-largest-value-in-each-tree-row) |
