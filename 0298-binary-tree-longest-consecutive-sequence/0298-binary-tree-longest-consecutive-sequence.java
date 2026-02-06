@@ -16,16 +16,16 @@
 class Solution {
     int maxlen = 0;
     public int longestConsecutive(TreeNode root) {
-        traverse(root, 0, root != null ? root.val - 1 : 0);
+        traverse(root, null, 0);
         return maxlen;
     }
 
-    private void traverse(TreeNode node, int currlen, int parentval) {
-        if(node == null ) {
+    private void traverse(TreeNode node, TreeNode parent, int currlen) {
+        if(node == null) {
             return;
         }
 
-        if(node.val == parentval + 1) {
+        if(parent != null && node.val == parent.val + 1) {
             currlen++;
         }
         else {
@@ -34,7 +34,7 @@ class Solution {
 
         maxlen = Math.max(maxlen, currlen);
 
-        traverse(node.right, currlen, node.val);
-        traverse(node.left, currlen, node.val);
+        traverse(node.right, node, currlen);
+        traverse(node.left, node, currlen);
     }
 }
