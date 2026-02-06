@@ -16,7 +16,6 @@
 class Solution {
     int maxlen = 0;
     public int longestConsecutive(TreeNode root) {
-        int len = 0;
         traverse(root, 0, root != null ? root.val - 1 : 0);
         return maxlen;
     }
